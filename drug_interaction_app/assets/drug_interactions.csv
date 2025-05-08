@@ -1,0 +1,63 @@
+DRUG 1,DRUG 2,MECHANISM OF INTERACTION,ALTERNATIVES,RISK RATING
+ALUMINIUM HYDROXIDE,PREDNISOLONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+ALUMINIUM HYDROXIDE,DEXAMETHASONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+AMITRIPTYLINE,TRAMADOL,Tramadol may enhance the serotonergic effect of Amitriptyline (and other TCAs). Amitriptyline may enhance the CNS depressant effect of Tramadol,Limit the dosage and duration of the drug to the minimum possible,D
+ANTACID / ALUMINIUM HYDROXIDE,FERROUS ASCORBATE,Antacid property of Aluminium hydroxide may decrease the absorption of Iron preparations,Separate the doses as much as possible in chronic use. Antacids can be replaced by PPIs or H2 blockers,D
+ANTACID / MAGNESIUM HYDROXIDE,FERROUS ASCORBATE,Antacid property of Magnesium hydroxide may decrease the absorption of Iron preparations,Separate the doses as much as possible in chronic use. Antacids can be replaced by PPIs or H2 blockers,D
+ANTACID / SODIUM BICARBONATE,FERROUS ASCORBATE,Antacid property of sodium bicarbonate may decrease the absorption of Iron preparations,Separate the doses as much as possible in chronic use. Antacids can be replaced by PPIs or H2 blockers,D
+APREPITANT,DOMPERIDONE,"Aprepitant may increase the serum concentration of Domperidone. MOA: Inhibition of CYP3A4, an enzyme responsible for domperidone metabolism","Metoclopramide, Ondansetron, Itopride",X
+BISACODYL,ANTACID / ALUMINIUM HYDROXIDE,Antacid may cause delayed release bisacodyl tabs to release drug prior to reaching the large Intestine. Gastric irritation / cramps may occur. Diminish the therapeutic effect of Bisacodyl,"Use antacid before 2hr or after 1hr of Bisacodyl ingestion. PPIs, H2 Blockers",D
+BISACODYL,ANTACID / MAGNESIUM HYDROXIDE,Antacid may cause delayed release bisacodyl tabs to release drug prior to reaching the large Intestine. Gastric irritation / cramps may occur. Diminish the therapeutic effect of Bisacodyl,"Use antacid before 2hr or after 1hr of Bisacodyl ingestion. PPIs, H2 Blockers",D
+CALCIUM,PREDNISOLONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+CALCIUM,DEXAMETHASONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+CALCIUM,FERROUS ASCORBATE,Antacid property of Calcium may decrease the absorption of Iron preparations,Separate the doses as much as possible in chronic use. Antacids can be replaced by PPIs or H2 blockers,D
+CAPECITABINE,PANTOPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,RABEPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,ESOMEPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,OMEPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,LANSOPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,CIMETIDINE,Cimetidine may increase the serum concentration of Capecitabine (Fluorouracil products). MOA: Inhibition of Capecitabine clearance by Cimetidine and / or impaired liver blood flow,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,DOMPERIDONE,Capecitabine may enhance the QT prolonging effect of Domperidone,"Metoclopramide, Itopride",D
+CEFUROXIME,ESOMEPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,PANTOPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,RABEPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,OMEPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,LANSOPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,RANITIDINE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,CIMETIDINE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,FAMOTIDINE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,NIZATIDINE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,ANTACID / ALUMINIUM HYDROXIDE,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CEFUROXIME,ANTACID / MAGNESIUM HYDROXIDE,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CEFUROXIME,ANTACID / CALCIUM CARBONATE,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CEFUROXIME,ANTACID / SODIUM BICARBONATE,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CEFUROXIME,CALCIUM,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CIPROFLOXACIN,SUCRALFATE,"Sucralfate may decrease the serum concentration of Ciprofloxacin. This interaction is limited to orally administered quinolone antibiotics. MOA: formation of insoluble complex between the quinolone and the aluminium component of sucralfate, reducing the absorbability of the antibiotic","Separate the doses, at least 2 hours before or 6 hours after sucralfate. OR Nitrofurantoin",D
+CIPROFLOXACIN,ANTACID / ALUMINIUM HYDROXIDE,Antacid properties of Aluminium hydroxide may decrease the absorption of Ciprofloxacin,"PPIs, H2 Blockers",D
+CIPROFLOXACIN,ANTACID / MAGNESIUM HYDROXIDE,Antacid properties of Magnesium hydroxide may decrease the absorption of Ciprofloxacin,"PPIs, H2 Blockers",D
+CLOPIDOGREL,FLUCONAZOLE,"Fluconazole: decrease the serum concentration of active metabolite of Clopidogrel. MOA: Inhibition of CYP2C19, which is responsible for the conversion of Clopidogrel to its active metabolite","Itraconazole, Posaconazole, Voriconazole (Comparatively better than Fluconazole)",D
+CLOPIDOGREL,MORPHINE,Morphine: diminish the antiplatelet effect of Clopidogrel. Morphine: decrease the serum concentration of Clopidogrel. MOA: Not fully investigated. Delayed gastric emptying of Clopidogrel due to opiate effect of Morphine. Prolongation to reach Tmax and maximal platelet inhibition of Clopidogrel,--,D
+CODEINE,LEVOCETIRIZINE,CNS depressant may enhance the CNS depressant effect of Opioid agonists,Separate the doses,D
+CODEINE,OLANZAPINE,CNS depressant may enhance the CNS depressant effect of Opioid agonists,--,D
+CODEINE,TRAMADOL,Additive CNS depressant effect,Separate the doses,D
+CODEINE,LEVOCETIRIZINE,Additive CNS depressant effect,Separate the doses,D
+CODEINE,OLANZAPINE,Additive CNS depressant effect,Separate the doses,D
+CODEINE,CHLORPHENIRAMINE,Additive CNS depressant effect,Separate the doses,D
+CODEINE,OLANZAPINE,Additive CNS depressant effect,Separate the doses,D
+CODEINE,GABAPENTIN,Additive CNS depressant effect,Separate the doses,D
+CRIZOTINIB,DOMPERIDONE,Crizotinib: Increases the serum concentration of Domperidone. Domperidone: Increases the QT prolonging effect of Crizotinib. MOA: Inhibition of CYP3A4 mediated metabolism of Domperidone by Crizotinib,"Metoclopramide, Ondansetron, Itopride (Ganaton)",X
+DASATINIB,PANTOPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,RABEPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,ESOMEPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,OMEPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,LANSOPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,RANITIDINE,H2 blockers may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,CIMETIDINE,H2 blockers may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,FAMOTIDINE,H2 blockers may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,NIZATIDINE,H2 blockers may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,ANTACID / ALUMINIUM HYDROXIDE,Antacids may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,ANTACID / MAGNESIUM HYDROXIDE,Antacids may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,ANTACID / CALCIUM CARBONATE,Antacids may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,ANTACID / SODIUM BICARBONATE,Antacids may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,CALCIUM,Antacid property of calcium salts may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,DOMPERIDONE,Dasatinib may increase the QT prolonging effect of Domperidone. Combined use of the drugs that prolongs the QT interval may further increase the risk,"Metoclopramide (Perinorm), Etopride (Ganaton)",D 

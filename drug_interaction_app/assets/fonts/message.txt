@@ -1,0 +1,397 @@
+To set up and run the backend in Google Colab for training a BioBERT-based model on your drug-to-drug interaction (DDI) dataset and deploying it as a FastAPI server with ngrok, you need to start with a new Colab notebook and install the required dependencies. Below is a detailed, step-by-step guide on how to initialize a new Colab notebook, install all necessary libraries, and prepare the environment for training and deploying the model. The guide assumes you’re starting from scratch and includes the exact commands and checks to ensure everything is set up correctly. The artifacts (`train_biobert_ddi.py` and `fastapi_server.py`) from previous responses will be referenced for context.
+
+---
+
+### Step-by-Step Guide to Start in Google Colab
+
+#### Step 1: Create a New Colab Notebook
+1. **Open Google Colab**:
+   - Go to [colab.research.google.com](https://colab.research.google.com/).
+   - Sign in with your Google account if prompted.
+2. **Create a New Notebook**:
+   - Click `File` > `New notebook` or select `New notebook` from the welcome screen.
+   - A blank notebook opens with an untitled name (e.g., `Untitled0.ipynb`).
+3. **Rename the Notebook** (Optional):
+   - Click the title (e.g., `Untitled0.ipynb`) at the top and rename it to something descriptive, like `DDI_Model_Training.ipynb`.
+
+**Output**: A new, empty Colab notebook ready for setup.
+
+---
+
+#### Step 2: Enable GPU Support
+**Goal**: Ensure the notebook uses a GPU for faster BioBERT training.
+1. **Change Runtime Type**:
+   - Click `Runtime` > `Change runtime type`.
+   - In the dialog, select:
+     - **Hardware accelerator**: `GPU`.
+     - **GPU type**: Leave as default (usually T4).
+     - **Runtime shape**: `Standard` (sufficient for this task).
+   - Click `Save`.
+2. **Verify GPU Availability**:
+   - Run the following in a new code cell:
+     ```python
+     !nvidia-smi
+     ```
+   - Look for output showing GPU details (e.g., Tesla T4, memory usage).
+   - If no GPU is detected, ensure you selected `GPU` in the runtime settings and that Colab’s free GPU quota is available (try again later if unavailable).
+
+**Output**: GPU enabled, confirmed by `nvidia-smi` output showing GPU details.
+
+---
+
+#### Step 3: Install Required Libraries
+**Goal**: Install all Python packages needed for BioBERT, model training, FastAPI, and ngrok.
+1. **Install Core Libraries**:
+   - Create a new code cell and run:
+     ```bash
+     !pip install torch transformers tensorflow fastapi uvicorn pyngrok nest_asyncio pandas numpy scikit-learn
+     ```
+   - This installs:
+     - `torch`: PyTorch for BioBERT.
+     - `transformers`: Hugging Face library for BioBERT model and tokenizer.
+     - `tensorflow`: For the neural network classifier.
+     - `fastapi`: For the API server.
+     - `uvicorn`: ASGI server for FastAPI.
+     - `pyngrok`: For exposing the local server via ngrok.
+     - `nest_asyncio`: To allow FastAPI to run in Colab’s event loop.
+     - `pandas`, `numpy`: For data handling.
+     - `scikit-learn`: For label encoding and train-test split.
+2. **Verify Installations**:
+   - Check installed versions to ensure compatibility:
+     ```python
+     import torch
+     import transformers
+     import tensorflow as tf
+     import fastapi
+     import uvicorn
+     import pyngrok
+     import nest_asyncio
+     import pandas as pd
+     import numpy as np
+     import sklearn
+     print("PyTorch:", torch.__version__)
+     print("Transformers:", transformers.__version__)
+     print("TensorFlow:", tf.__version__)
+     print("FastAPI:", fastapi.__version__)
+     print("Uvicorn:", uvicorn.__version__)
+     print("Pyngrok:", pyngrok.__version__)
+     print("Pandas:", pd.__version__)
+     print("NumPy:", np.__version__)
+     print("Scikit-learn:", sklearn.__version__)
+     ```
+   - Expected output (versions may vary slightly):
+     ```
+     PyTorch: 2.0.1+cu118
+     Transformers: 4.35.2
+     TensorFlow: 2.14.0
+     FastAPI: 0.104.1
+     Uvicorn: 0.24.0.post1
+     Pyngrok: 7.0.0
+     Pandas: 1.5.3
+     NumPy: 1.23.5
+     Scikit-learn: 1.2.2
+     ```
+   - If any package fails to import, rerun the `pip install` command or specify a compatible version (e.g., `!pip install transformers==4.35.2`).
+3. **Handle Potential Conflicts**:
+   - If you encounter version conflicts (e.g., between `tensorflow` and `torch`), install specific versions:
+     ```bash
+     !pip install torch==2.0.1 transformers==4.35.2 tensorflow==2.14.0
+     ```
+   - Restart the runtime if prompted: `Runtime` > `Restart runtime`.
+
+**Output**: All required libraries installed and verified.
+
+---
+
+#### Step 4: Configure ngrok
+**Goal**: Set up ngrok to expose the FastAPI server publicly.
+1. **Obtain ngrok Authtoken**:
+   - Sign up for a free account at [ngrok.com](https://ngrok.com/).
+   - Go to `Your Authtoken` in the ngrok dashboard to copy your authtoken (e.g., `2aBcDeFgHiJkLmNoPqRsTuVwXyZ_1234567890`).
+2. **Set Authtoken in Colab**:
+   - Run in a new code cell:
+     ```bash
+     !ngrok authtoken YOUR_AUTH_TOKEN  # Replace with your authtoken
+     ```
+   - Replace `YOUR_AUTH_TOKEN` with your actual token.
+3. **Verify ngrok Setup**:
+   - Run a test command to ensure ngrok is working:
+     ```bash
+     !ngrok http 80
+     ```
+   - This starts a temporary tunnel (you’ll stop it with `Ctrl+C` after confirming it works).
+   - Look for a public URL (e.g., `https://abc123.ngrok.io`) in the output.
+   - If you see an error (e.g., “Invalid authtoken”), double-check the token and rerun.
+
+**Output**: ngrok configured, ready to create public URLs for the FastAPI server.
+
+---
+
+#### Step 5: Upload and Verify the Dataset
+**Goal**: Upload your DDI dataset and ensure it’s ready for training.
+1. **Dataset Format**:
+   - Your dataset (`ddi_dataset.csv`) should have 794 rows with columns: `Drug1`, `Drug2`, `Interaction`, `Risk_Rating` (e.g., Low, Moderate, High).
+   - Example:
+     ```csv
+     Drug1,Drug2,Interaction,Risk_Rating
+     DrugA,DrugB,Increases toxicity,High
+     DrugC,DrugD,No interaction,Low
+     ...
+     ```
+   - If the format differs, share the column names or a sample row, and I’ll adjust the training script.
+2. **Upload the Dataset**:
+   - In Colab, click the folder icon (left sidebar) > Click `Upload` > Select `ddi_dataset.csv`.
+   - The file will be uploaded to `/content/ddi_dataset.csv`.
+3. **Verify the Dataset**:
+   - Run the following in a new code cell:
+     ```python
+     import pandas as pd
+     data = pd.read_csv('/content/ddi_dataset.csv')
+     print("First 5 rows:\n", data.head())
+     print("\nRisk Rating counts:\n", data['Risk_Rating'].value_counts())
+     print("\nMissing values:\n", data.isnull().sum())
+     ```
+   - Check the output for:
+     - Correct column names (`Drug1`, `Drug2`, `Interaction`, `Risk_Rating`).
+     - Distribution of `Risk_Rating` (e.g., 400 Low, 250 Moderate, 144 High).
+     - No missing values (all counts should be 0).
+   - If there are issues (e.g., missing values), clean the data:
+     ```python
+     data.dropna(inplace=True)
+     data.to_csv('/content/ddi_dataset.csv', index=False)  # Save cleaned dataset
+     ```
+
+**Output**: Dataset uploaded to `/content/ddi_dataset.csv` and verified.
+
+---
+
+#### Step 6: Train the BioBERT-Based Model
+**Goal**: Train the model using BioBERT embeddings and a neural network.
+1. **Run the Training Script**:
+   - Create a new code cell and copy the `train_biobert_ddi.py` artifact:
+     ```python
+     import pandas as pd
+     import numpy as np
+     from transformers import AutoTokenizer, AutoModel
+     import torch
+     from sklearn.model_selection import train_test_split
+     from sklearn.preprocessing import LabelEncoder
+     import tensorflow as tf
+     from tensorflow.keras.models import Sequential
+     from tensorflow.keras.layers import Dense
+     import pickle
+
+     # Load dataset
+     data = pd.read_csv('/content/ddi_dataset.csv')
+     drug_pairs = data[['Drug1', 'Drug2']].values
+     labels = data['Risk_Rating'].values
+
+     # Encode labels
+     label_encoder = LabelEncoder()
+     y = label_encoder.fit_transform(labels)
+
+     # Load BioBERT
+     tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-v1.1")
+     model = AutoModel.from_pretrained("dmis-lab/biobert-v1.1")
+
+     # Function to get BioBERT embeddings
+     def get_biobert_embeddings(drug1, drug2):
+         input_text = f"{drug1} and {drug2}"
+         inputs = tokenizer(input_text, return_tensors="pt", padding=True, truncation=True, max_length=128)
+         with torch.no_grad():
+             outputs = model(**inputs)
+         return outputs.last_hidden_state[:, 0, :].numpy()
+
+     # Generate embeddings
+     X = np.array([get_biobert_embeddings(d1, d2).flatten() for d1, d2 in drug_pairs])
+
+     # Split data
+     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+     # Build neural network
+     model_nn = Sequential([
+         Dense(256, activation='relu', input_shape=(X.shape[1],)),
+         Dense(128, activation='relu'),
+         Dense(len(label_encoder.classes_), activation='softmax')
+     ])
+
+     model_nn.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+
+     # Train model
+     model_nn.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_test, y_test))
+
+     # Evaluate model
+     loss, accuracy = model_nn.evaluate(X_test, y_test)
+     print(f"Test Accuracy: {accuracy:.4f}")
+
+     # Save model
+     model_nn.save('ddi_model.h5')
+
+     # Save label encoder
+     with open('label_encoder.pkl', 'wb') as f:
+         pickle.dump(label_encoder, f)
+
+     # Save BioBERT tokenizer and model
+     tokenizer.save_pretrained('biobert_tokenizer')
+     model.save_pretrained('biobert_model')
+     ```
+   - Ensure the dataset path is `/content/ddi_dataset.csv`.
+   - Execute the cell to:
+     - Load BioBERT to generate embeddings for the 794 drug pairs.
+     - Train a neural network to classify risk ratings.
+     - Save the model (`ddi_model.h5`), label encoder (`label_encoder.pkl`), and BioBERT components (`biobert_tokenizer`, `biobert_model`).
+2. **Check Results**:
+   - Verify the test accuracy (e.g., `Test Accuracy: 0.85`).
+   - Check saved files in `/content/` (use the file explorer or `!ls`).
+   - If accuracy is low (<0.7), consider:
+     - Increasing `epochs` to 20:
+       ```python
+       model_nn.fit(X_train, y_train, epochs=20, batch_size=32, validation_data=(X_test, y_test))
+       ```
+     - Adding dropout to prevent overfitting:
+       ```python
+       model_nn = Sequential([
+           Dense(256, activation='relu', input_shape=(X.shape[1],)),
+           Dense(128, activation='relu'),
+           tf.keras.layers.Dropout(0.3),
+           Dense(len(label_encoder.classes_), activation='softmax')
+       ])
+       ```
+
+**Output**: Trained model and components saved in `/content/`.
+
+---
+
+#### Step 7: Deploy the FastAPI Backend
+**Goal**: Host the trained model as an API and expose it via ngrok.
+1. **Run the FastAPI Script**:
+   - Create a new code cell and copy the `fastapi_server.py` artifact:
+     ```python
+     from fastapi import FastAPI, HTTPException
+     from pydantic import BaseModel
+     import numpy as np
+     import torch
+     from transformers import AutoTokenizer, AutoModel
+     import tensorflow as tf
+     import pickle
+     from pyngrok import ngrok
+     import uvicorn
+     import nest_asyncio
+
+     nest_asyncio.apply()
+
+     app = FastAPI()
+
+     model_nn = tf.keras.models.load_model('ddi_model.h5')
+     with open('label_encoder.pkl', 'rb') as f:
+         label_encoder = pickle.load(f)
+     tokenizer = AutoTokenizer.from_pretrained('biobert_tokenizer')
+     biobert_model = AutoModel.from_pretrained('biobert_model')
+
+     class DrugPair(BaseModel):
+         drug1: str
+         drug2: str
+
+     def get_biobert_embeddings(drug1, drug2):
+         input_text = f"{drug1} and {drug2}"
+         inputs = tokenizer(input_text, return_tensors="pt", padding=True, truncation=True, max_length=128)
+         with torch.no_grad():
+             outputs = biobert_model(**inputs)
+         return outputs.last_hidden_state[:, 0, :].numpy()
+
+     @app.post("/predict")
+     async def predict_ddi(drug_pair: DrugPair):
+         try:
+             embedding = get_biobert_embeddings(drug_pair.drug1, drug_pair.drug2).flatten()
+             prediction = model_nn.predict(np.array([embedding]))
+             predicted_class = np.argmax(prediction, axis=1)[0]
+             risk_rating = label_encoder.inverse_transform([predicted_class])[0]
+             return {"drug1": drug_pair.drug1, "drug2": drug_pair.drug2, "risk_rating": risk_rating}
+         except Exception as e:
+             raise HTTPException(status_code=500, detail=str(e))
+
+     public_url = ngrok.connect(8000)
+     print(f"Public URL: {public_url}")
+     uvicorn.run(app, host="0.0.0.0", port=8000)
+     ```
+   - Execute the cell to:
+     - Load the trained model and BioBERT components.
+     - Start a FastAPI server with a `/predict` endpoint.
+     - Create a public ngrok URL.
+2. **Test the API**:
+   - Note the ngrok URL (e.g., `https://abc123.ngrok.io`).
+   - Test with a POST request in a new cell:
+     ```python
+     import requests
+     response = requests.post('https://abc123.ngrok.io/predict', json={'drug1': 'DrugA', 'drug2': 'DrugB'})
+     print(response.json())
+     ```
+     - Expected response: `{'drug1': 'DrugA', 'drug2': 'DrugB', 'risk_rating': 'Low'}`
+   - If the request fails, check Colab logs for errors (e.g., missing model files, incorrect paths).
+
+**Output**: FastAPI server running, accessible via ngrok URL.
+
+---
+
+#### Step 8: Integrate with Flutter App
+**Goal**: Connect your existing Flutter app to the backend.
+1. **Update API URL**:
+   - In your Flutter app’s `main.dart`, update the API endpoint to the ngrok URL:
+     ```dart
+     final response = await http.post(
+       Uri.parse('https://abc123.ngrok.io/predict'),  // Replace with your ngrok URL
+       headers: {'Content-Type': 'application/json'},
+       body: jsonEncode({'drug1': drug1, 'drug2': drug2}),
+     );
+     ```
+2. **Test the App**:
+   - Rebuild and run the app:
+     ```bash
+     flutter run
+     ```
+   - Enter two drug names from your dataset and verify the risk rating response.
+3. **Troubleshoot**:
+   - If the app fails to connect, ensure the ngrok URL is correct and the Colab session is active.
+   - Check the API response using the test request above.
+
+**Output**: Flutter app connected to the backend, displaying risk ratings.
+
+---
+
+### Troubleshooting
+- **Library Installation Errors**:
+  - If a package fails to install, try installing it individually (e.g., `!pip install transformers`).
+  - Restart the runtime (`Runtime` > `Restart runtime`) and rerun the installation cell.
+- **Dataset Issues**:
+  - If the dataset has incorrect columns, update `drug_pairs = data[['Drug1', 'Drug2']].values` and `labels = data['Risk_Rating'].values` to match your column names.
+  - Handle missing values:
+    ```python
+    data.dropna(inplace=True)
+    ```
+- **Model Training Errors**:
+  - If BioBERT download fails, ensure `transformers` is installed and try a different model version (e.g., `dmis-lab/biobert-base-cased-v1.1`).
+  - If memory errors occur, reduce `batch_size` to 16 or use a smaller dataset split.
+- **API Issues**:
+  - If the ngrok URL doesn’t work, verify the authtoken and ensure port 8000 is free.
+  - If the API returns errors, check file paths (e.g., `ddi_model.h5`) and Colab logs.
+- **Colab Session Disconnects**:
+  - Colab sessions may disconnect after ~12 hours. Keep the session active during testing.
+  - Save model files to Google Drive for persistence:
+    ```python
+    from google.colab import drive
+    drive.mount('/content/drive')
+    !cp ddi_model.h5 /content/drive/MyDrive/
+    !cp label_encoder.pkl /content/drive/MyDrive/
+    !cp -r biobert_tokenizer /content/drive/MyDrive/
+    !cp -r biobert_model /content/drive/MyDrive/
+    ```
+
+---
+
+### Next Steps
+- **Dataset Confirmation**: If your dataset’s columns differ (e.g., not `Drug1`, `Drug2`, `Risk_Rating`), share the schema, and I’ll update `train_biobert_ddi.py`.
+- **Model Performance**: After training, share the test accuracy or any issues, and I can suggest improvements (e.g., more epochs, dropout, class weights).
+- **Production Deployment**: For a stable backend, I can guide you to deploy FastAPI to Google Cloud or AWS.
+- **Testing**: Provide a few drug pairs from your dataset to test the API and ensure correct predictions.
+
+Follow these steps in order, and your backend will be running in Colab, ready to serve your Flutter app. Let me know if you hit any snags or need further tweaks!

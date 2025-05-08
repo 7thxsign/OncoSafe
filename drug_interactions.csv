@@ -1,0 +1,794 @@
+DRUG 1,DRUG 2,MECHANISM OF INTERACTION,ALTERNATIVES,RISK RATING
+ALUMINIUM HYDROXIDE,PREDNISOLONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+ALUMINIUM HYDROXIDE,DEXAMETHASONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+AMITRIPTYLINE,TRAMADOL,Tramadol may enhance the serotonergic effect of Amitriptyline (and other TCAs). Amitriptyline may enhance the CNS depressant effect of Tramadol,Limit the dosage and duration of the drug to the minimum possible,D
+ANTACID / ALUMINIUM HYDROXIDE,FERROUS ASCORBATE,Antacid property of Aluminium hydroxide may decrease the absorption of Iron preparations,Separate the doses as much as possible in chronic use. Antacids can be replaced by PPIs or H2 blockers,D
+ANTACID / MAGNESIUM HYDROXIDE,FERROUS ASCORBATE,Antacid property of Magnesium hydroxide may decrease the absorption of Iron preparations,Separate the doses as much as possible in chronic use. Antacids can be replaced by PPIs or H2 blockers,D
+ANTACID / SODIUM BICARBONATE,FERROUS ASCORBATE,Antacid property of sodium bicarbonate may decrease the absorption of Iron preparations,Separate the doses as much as possible in chronic use. Antacids can be replaced by PPIs or H2 blockers,D
+APREPITANT,DOMPERIDONE,"Aprepitant may increase the serum concentration of Domperidone. MOA: Inhibition of CYP3A4, an enzyme responsible for domperidone metabolism","Metoclopramide, Ondansetron, Itopride",X
+BISACODYL,ANTACID / ALUMINIUM HYDROXIDE,Antacid may cause delayed release bisacodyl tabs to release drug prior to reaching the large Intestine. Gastric irritation / cramps may occur. Diminish the therapeutic effect of Bisacodyl,"Use antacid before 2hr or after 1hr of Bisacodyl ingestion. PPIs, H2 Blockers",D
+BISACODYL,ANTACID / MAGNESIUM HYDROXIDE,Antacid may cause delayed release bisacodyl tabs to release drug prior to reaching the large Intestine. Gastric irritation / cramps may occur. Diminish the therapeutic effect of Bisacodyl,"Use antacid before 2hr or after 1hr of Bisacodyl ingestion. PPIs, H2 Blockers",D
+CALCIUM,PREDNISOLONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+CALCIUM,DEXAMETHASONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+CALCIUM,FERROUS ASCORBATE,Antacid property of Calcium may decrease the absorption of Iron preparations,Separate the doses as much as possible in chronic use. Antacids can be replaced by PPIs or H2 blockers,D
+CAPECITABINE,PANTOPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,RABEPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,ESOMEPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,OMEPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,LANSOPRAZOLE,PPIs may diminish the therapeutic effect of Capecitabine. MOA: Unknown. Hypothesis: Elevated gastric pH may reduce the absorption of Capecitabine,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,CIMETIDINE,Cimetidine may increase the serum concentration of Capecitabine (Fluorouracil products). MOA: Inhibition of Capecitabine clearance by Cimetidine and / or impaired liver blood flow,H2 Blockers other than Cimetidine. Antacids,C
+CAPECITABINE,DOMPERIDONE,Capecitabine may enhance the QT prolonging effect of Domperidone,"Metoclopramide, Itopride",D
+CEFUROXIME,ESOMEPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,PANTOPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,RABEPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,OMEPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,LANSOPRAZOLE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,RANITIDINE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,CIMETIDINE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,FAMOTIDINE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,NIZATIDINE,Decreased absorption of cefuroxime due to increased gastric pH,"Separate oral doses at least by 2 hours. Antacids do interfere with the absorption of Cefuroxime, but to a lesser extent",X
+CEFUROXIME,ANTACID / ALUMINIUM HYDROXIDE,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CEFUROXIME,ANTACID / MAGNESIUM HYDROXIDE,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CEFUROXIME,ANTACID / CALCIUM CARBONATE,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CEFUROXIME,ANTACID / SODIUM BICARBONATE,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CEFUROXIME,CALCIUM,Decreased absorption of cefuroxime due to increased gastric pH,Separate oral doses at least by 2 hours,D
+CIPROFLOXACIN,SUCRALFATE,"Sucralfate may decrease the serum concentration of Ciprofloxacin. This interaction is limited to orally administered quinolone antibiotics. MOA: formation of insoluble complex between the quinolone and the aluminium component of sucralfate, reducing the absorbability of the antibiotic","Separate the doses, at least 2 hours before or 6 hours after sucralfate. OR Nitrofurantoin",D
+CIPROFLOXACIN,ANTACID / ALUMINIUM HYDROXIDE,Antacid properties of Aluminium hydroxide may decrease the absorption of Ciprofloxacin,"PPIs, H2 Blockers",D
+CIPROFLOXACIN,ANTACID / MAGNESIUM HYDROXIDE,Antacid properties of Magnesium hydroxide may decrease the absorption of Ciprofloxacin,"PPIs, H2 Blockers",D
+CLOPIDOGREL,FLUCONAZOLE,"Fluconazole: decrease the serum concentration of active metabolite of Clopidogrel. MOA: Inhibition of CYP2C19, which is responsible for the conversion of Clopidogrel to its active metabolite","Itraconazole, Posaconazole, Voriconazole (Comparatively better than Fluconazole)",D
+CLOPIDOGREL,MORPHINE,Morphine: diminish the antiplatelet effect of Clopidogrel. Morphine: decrease the serum concentration of Clopidogrel. MOA: Not fully investigated. Delayed gastric emptying of Clopidogrel due to opiate effect of Morphine. Prolongation to reach Tmax and maximal platelet inhibition of Clopidogrel,--,D
+CODEINE,LEVOCETIRIZINE,CNS depressant may enhance the CNS depressant effect of Opioid agonists,Separate the doses,D
+CODEINE,OLANZAPINE,CNS depressant may enhance the CNS depressant effect of Opioid agonists,--,D
+CODEINE,TRAMADOL,Additive CNS depressant effect,Separate the doses,D
+CODEINE,LEVOCETIRIZINE,Additive CNS depressant effect,Separate the doses,D
+CODEINE,OLANZAPINE,Additive CNS depressant effect,Separate the doses,D
+CODEINE,CHLORPHENIRAMINE,Additive CNS depressant effect,Separate the doses,D
+CODEINE,OLANZAPINE,Additive CNS depressant effect,Separate the doses,D
+CODEINE,GABAPENTIN,Additive CNS depressant effect,Separate the doses,D
+CRIZOTINIB,DOMPERIDONE,Crizotinib: Increases the serum concentration of Domperidone. Domperidone: Increases the QT prolonging effect of Crizotinib. MOA: Inhibition of CYP3A4 mediated metabolism of Domperidone by Crizotinib,"Metoclopramide, Ondansetron, Itopride (Ganaton)",X
+DASATINIB,PANTOPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,RABEPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,ESOMEPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,OMEPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,LANSOPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,RANITIDINE,H2 blockers may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,CIMETIDINE,H2 blockers may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,FAMOTIDINE,H2 blockers may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,NIZATIDINE,H2 blockers may decrease the serum concentration of Dasatinib. MOA: Impaired absorption of Dasatinib at higher pH,"Separate the doses, maintain the gap of 2 hours between the doses",X
+DASATINIB,ANTACID / ALUMINIUM HYDROXIDE,Antacids may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,ANTACID / MAGNESIUM HYDROXIDE,Antacids may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,ANTACID / CALCIUM CARBONATE,Antacids may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,ANTACID / SODIUM BICARBONATE,Antacids may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,CALCIUM,Antacid property of calcium salts may decrease the serum concentration of Dasatinib. MOA: Reduced absorption of Dasatinib due to the antacid mediated increase in gastric pH,"Separate the doses, maintain the gap of 2 hours between the doses",D
+DASATINIB,DOMPERIDONE,Dasatinib may increase the QT prolonging effect of Domperidone. Combined use of the drugs that prolongs the QT interval may further increase the risk,"Metoclopramide (Perinorm), Etopride (Ganaton)",D
+DEXAMETHASONE,APREPITANT,Aprepitant or Netupitant may increase the serum concentration of Dexamethasone. MOA: Inhibition of CYP3A4 which is responsible for dexamethasone metabolism,Dexamethasone dose adjustment,D
+DEXAMETHASONE,NETUPITANT,Aprepitant or Netupitant may increase the serum concentration of Dexamethasone. MOA: Inhibition of CYP3A4 which is responsible for dexamethasone metabolism,Dexamethasone dose adjustment,D
+DILTIAZEM,DOMPERIDONE,Diltiazem may increase the serum concentration of Domperidone. MOA: Inhibition CYP3A4 which is responsible for the metabolism of Domperidone,"Metoclopramide, Itopride",X
+DOMPERIDONE,QUETIAPINE,Quetiapine may enhance the QT prolonging effect of Domperidone,"Itopride (Ganaton), Ondansetron",D
+DOMPERIDONE,OLANZAPINE,Quetiapine may enhance the QT prolonging effect of Domperidone,"Itopride (Ganaton), Ondansetron",D
+DOMPERIDONE,TERBUTALINE,Enhances the QT prolonging effect of Domperidone,Separate the doses,D
+DOMPERIDONE,LEVOFLOXACIN,Enhances the QT prolonging effect of Domperidone,Separate the doses,D
+DOMPERIDONE,OLANZAPINE,Enhances the QT prolonging effect of Domperidone,Separate the doses,D
+ENZALUTAMIDE,METHYLPREDNISOLONE,Enzalutamide may decrease the serum concentration of Methylprednisolone. MOA: CYP3A4 inducers may enhance the metabolism of methylprednisolone,Consider increasing the dose of Methylprednisolone,D
+ERLOTINIB,PANTOPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Erlotinib. MOA: Decrease in erlotinib solubility in upper GI tract due to PPI mediated increase in gastric pH,Separate the doses,X
+ERLOTINIB,RABEPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Erlotinib. MOA: Decrease in erlotinib solubility in upper GI tract due to PPI mediated increase in gastric pH,Separate the doses,X
+ERLOTINIB,ESOMEPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Erlotinib. MOA: Decrease in erlotinib solubility in upper GI tract due to PPI mediated increase in gastric pH,Separate the doses,X
+ERLOTINIB,OMEPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Erlotinib. MOA: Decrease in erlotinib solubility in upper GI tract due to PPI mediated increase in gastric pH,Separate the doses,X
+ERLOTINIB,LANSOPRAZOLE,Proton pump inhibitors may decrease the serum concentration of Erlotinib. MOA: Decrease in erlotinib solubility in upper GI tract due to PPI mediated increase in gastric pH,Separate the doses,X
+ERLOTINIB,RANITIDINE,H2 blockers may decrease the serum concentration of Erlotinib. MOA: Decrease in Erlotinib solubility in the upper GI tract due to Ranitidine mediated increase in gastric pH,Separate the doses,D
+ERLOTINIB,CIMETIDINE,H2 blockers may decrease the serum concentration of Erlotinib. MOA: Decrease in Erlotinib solubility in the upper GI tract due to Ranitidine mediated increase in gastric pH,Separate the doses,D
+ERLOTINIB,FAMOTIDINE,H2 blockers may decrease the serum concentration of Erlotinib. MOA: Decrease in Erlotinib solubility in the upper GI tract due to Ranitidine mediated increase in gastric pH,Separate the doses,D
+ERLOTINIB,NIZATIDINE,H2 blockers may decrease the serum concentration of Erlotinib. MOA: Decrease in Erlotinib solubility in the upper GI tract due to Ranitidine mediated increase in gastric pH,Separate the doses,D
+ERLOTINIB,ANTACID / ALUMINIUM HYDROXIDE,Antacids may decrease the serum concentration of Erlotinib. MOA: Reduced absorption of Erlotinib due to the antacid mediated increase in gastric pH,Separate the doses,D
+ERLOTINIB,ANTACID / MAGNESIUM HYDROXIDE,Antacids may decrease the serum concentration of Erlotinib. MOA: Reduced absorption of Erlotinib due to the antacid mediated increase in gastric pH,Separate the doses,D
+ERLOTINIB,ANTACID / CALCIUM CARBONATE,Antacids may decrease the serum concentration of Erlotinib. MOA: Reduced absorption of Erlotinib due to the antacid mediated increase in gastric pH,Separate the doses,D
+ERLOTINIB,ANTACID / SODIUM BICARBONATE,Antacids may decrease the serum concentration of Erlotinib. MOA: Reduced absorption of Erlotinib due to the antacid mediated increase in gastric pH,Separate the doses,D
+ERLOTINIB,CALCIUM,Antacid property of calcium salts may decrease the serum concentration of Erlotinib. MOA: Reduced absorption of Erlotinib due to the antacid mediated increase in gastric pH,Separate the doses,D
+ERYTHROMYCIN,DOMPERIDONE,Erythromycin: Increases the serum concentration of Domperidone. Domperidone: Increases the QT prolonging effect of Erythromycin. MOA: Inhibition of CYP3A4 mediated metabolism of Domperidone by Erythromycin,"Metoclopramide, Ondansetron, Itopride (Ganaton)",X
+FAROPENEM,FUROSEMIDE,Nephrotoxicity,Torsemide,D
+FLUCONAZOLE,DOMPERIDONE,Fluconazole: Increases the serum concentration of Domperidone. Domperidone: Increases the QT prolonging effect of Fluconazole. MOA: Inhibition of CYP3A4 mediated metabolism of Domperidone by Fluconazole,"Metoclopramide, Ondansetron, Itopride (Ganaton)",X
+FUROSEMIDE,ACECLOFENAC,NSAIDs may diminish the diuretic effect of Loop Diuretics. Loop Diuretic may enhance the nephrotoxic effect of NSAIDs,Diuretics other than loop diuretics. OR Separate the dosing by 2 hours,D
+FUROSEMIDE,ETORICOXIB,NSAIDs may diminish the diuretic effect of Loop Diuretics. Loop Diuretic may enhance the nephrotoxic effect of NSAIDs,Diuretics other than loop diuretics. OR Separate the dosing by 2 hours,D
+GABAPENTIN,ANTACID / MAGNESIUM HYDROXIDE,"Magnesium salt may enhance the CNS depressant effect of Gabapentin, Specifically with high dose IV / Epidural Mg(OH)2",Separate the dose by 2hrs,D
+GEFITINIB,PANTOPRAZOLE,PPIs may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 12hr before or after administration of PPIs,D
+GEFITINIB,RABEPRAZOLE,PPIs may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 12hr before or after administration of PPIs,D
+GEFITINIB,ESOMEPRAZOLE,PPIs may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 12hr before or after administration of PPIs,D
+GEFITINIB,OMEPRAZOLE,PPIs may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 12hr before or after administration of PPIs,D
+GEFITINIB,LANSOPRAZOLE,PPIs may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 12hr before or after administration of PPIs,D
+GEFITINIB,RANITIDINE,H2 blockers may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 6hr before or after administration of H2 blockers,D
+GEFITINIB,CIMETIDINE,H2 blockers may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 6hr before or after administration of H2 blockers,D
+GEFITINIB,FAMOTIDINE,H2 blockers may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 6hr before or after administration of H2 blockers,D
+GEFITINIB,NIZATIDINE,H2 blockers may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 6hr before or after administration of H2 blockers,D
+GEFITINIB,ANTACID / ALUMINIUM HYDROXIDE,Antacids may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 6hr before or after administration of antacid,D
+GEFITINIB,ANTACID / MAGNESIUM HYDROXIDE,Antacids may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 6hr before or after administration of antacid,D
+GEFITINIB,ANTACID / CALCIUM CARBONATE,Antacids may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 6hr before or after administration of antacid,D
+GEFITINIB,ANTACID / SODIUM BICARBONATE,Antacids may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 6hr before or after administration of antacid,D
+GEFITINIB,CALCIUM,Calcium may decrease the serum concentration of Gefitinib. Aqueous solubility of Gefitinib has been shown to decline with increase in gastric pH,Administer Gefitinib 6hr before or after administration of calcium,D
+GEFITINIB,PHENYTOIN,CYP3A4 inducers may decrease the serum concentration of Gefitinib. MOA: CYP3A4-mediated metabolism of Gefitinib by Phenytoin,"In the absence of severe adverse drug reaction, increase the Gefitinib dose to 500 mg daily, resume the 250mg dose 7 days after discontinuation of CYP3A4 inducers",D
+GEFITINIB,RIFAMPICIN,CYP3A4 inducers may decrease the serum concentration of Gefitinib. MOA: CYP3A4-mediated metabolism of Gefitinib,"In the absence of severe adverse drug reaction, increase the Gefitinib dose to 500 mg daily, resume the 250mg dose 7 days after discontinuation of CYP3A4 inducers",D
+HYDROXYZINE,OLANZAPINE,Hydroxyzine may enhance the CNS depressant effect of Olanzapine,--,D
+LENALIDOMIDE,DEXAMETHASONE,Dexamethasone may enhance the thrombogenic effect of Lenalidomide,Consider using thromboembolism prophylaxis (LMW heparin/ warfarin) on patient with Multiple myeloma,D
+LENVATINIB,DOMPERIDONE,Lenvatinib may enhance the QT-prolonging effect of Domperidone,Itopride (Ganaton),X
+LENVATINIB,FLUCONAZOLE,Lenvatinib: increases the QT prolonging effect of Fluconazole. Fluconazole: increases the serum concentration of Lenvatinib. MOA: Fluconazole inhibits CYP3A4 mediated metabolism of Lenvatinib,"Itraconazole, Posaconazole",D
+LEVOFLOXACIN,CALCIUM,Antacid property of Calcium may decrease the absorption of Levofloxacin. Calcium salts may decrease the absorption of Levofloxacin,Separate the doses,D
+LEVOFLOXACIN,MAGNESIUM HYDROXIDE,Antacid property of Magnesium may decrease the absorption of Levofloxacin. Magnesium salts may decrease the absorption of Levofloxacin,Separate the doses,D
+LEVOFLOXACIN,ZINC SULPHATE,Zinc salts may decrease the absorption of Levofloxacin,Separate the doses,D
+LINEZOLID,TERBUTALINE,"Linezolid may enhance the hypertensive effect of Terbutaline / Phenylephrine / Salbutamol. MOA: Linezolid causes accumulation of norepinephrine within adrenergic neurons, including sympathetic neurons: sympathomimetics cause release of stored, excess norepinephrine",Monitor patients with Hypertension. Dose reduction of sympathomimetics,D
+LINEZOLID,TRAMADOL,Linezolid may enhance the serotonergic effect of Opioids,"Vancomycin, Ofloxacin, Tigecycline, Daptomycin - Injection, Quinupristin / Dalfopristin - injection OR NSAIDs",D
+LINEZOLID,PHENIRAMINE,"Pheniramine may enhance the anticholinergic effect of Linezolid. Concurrent use, use in patients who used MAOIs within the past 14 days is contraindicated","Vancomycin, Ofloxacin, Tigecycline, Daptomycin - Injection, Quinupristin / Dalfopristin – injection",X
+LINEZOLID,PHENYLEPHRINE,"Linezolid may enhance the hypertensive effect of Terbutaline / Phenylephrine / Salbutamol. MOA: Linezolid causes accumulation of norepinephrine within adrenergic neurons, including sympathetic neurons: sympathomimetics cause release of stored, excess norepinephrine",Monitor patients with Hypertension. Dose reduction of sympathomimetics,D
+LINEZOLID,SALBUTAMOL,"Linezolid may enhance the hypertensive effect of Terbutaline / Phenylephrine / Salbutamol. MOA: Linezolid causes accumulation of norepinephrine within adrenergic neurons, including sympathetic neurons: sympathomimetics cause release of stored, excess norepinephrine",Monitor patients with Hypertension. Dose reduction of sympathomimetics,D
+LINEZOLID,CODEINE,"Enhances the adverse effect of Codeine: serotonin syndrome or opioid toxicity. Concurrent use, use in patients who used MAOIs within the past 14 days is contraindicated","Vancomycin, Ofloxacin, Tigecycline, Daptomycin - Injection, Quinupristin / Dalfopristin – injection",X
+LINEZOLID,DEXTROMETHORPHAN,"Dextromethorphan enhances serotonergic effect of Linezolid: may cause serotonin syndrome. MOA: Increased or additive serotonergic effect. Concurrent use, use in patients who used MAOIs within the past 14 days is contraindicated","Vancomycin, Ofloxacin, Tigecycline, Daptomycin - Injection, Quinupristin / Dalfopristin – injection",X
+LINEZOLID,MORPHINE,"Potential for CNS depression / Respiratory depression and potentiation of morphine related anxiety and confusion. MOA: Potential for excessive serotonin stimulation or potential for each agent to independently alter the CNS activity – the mechanism of interaction is unclear. Concurrent use, use in patients who used MAOIs within the past 14 days is contraindicated","Vancomycin, Ofloxacin, Tigecycline, Daptomycin - Injection, Quinupristin / Dalfopristin – injection",X
+LINEZOLID,TAPENTADOL,"Tapentadol: Enhances toxic effect of Linezolid: additive effect of norepinephrine may lead to adverse cardiovascular effects. Tapentadol: Enhances the serotonergic effect of Linezolid: could result in serotonin toxicity. Concurrent use, use in patients who used MAOIs within the past 14 days is contraindicated","Vancomycin, Ofloxacin, Tigecycline, Daptomycin - Injection, Quinupristin / Dalfopristin – injection",X
+LINEZOLID,AMITRIPTYLINE,"Linezolid may enhance the serotonergic effect of TCAs: resulting in serotonin syndrome. If already receiving TCA, stop promptly on initiation of Linezolid - Monitor patients for Serotonin toxicity for 2 weeks or 24hrs after the last dose of Linezolid. MOA: Additive effect","Vancomycin, Ofloxacin, Tigecycline, Daptomycin - Injection, Quinupristin / Dalfopristin – injection",X
+LINEZOLID,NORTRIPTYLINE,"Linezolid may enhance the serotonergic effect of TCAs: resulting in serotonin syndrome. If already receiving TCA, stop promptly on initiation of Linezolid - Monitor patients for Serotonin toxicity for 2 weeks or 24hrs after the last dose of Linezolid. MOA: Additive effect","Vancomycin, Ofloxacin, Tigecycline, Daptomycin - Injection, Quinupristin / Dalfopristin – injection",X
+MAGNESIUM HYDROXIDE,PREDNISOLONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+MAGNESIUM HYDROXIDE,DEXAMETHASONE,Antacids or antacid properties of Calcium may decrease the bioavailability of Corticosteroid,Separate the dosing by 2 or more hours,D
+METHOTREXATE,PANTOPRAZOLE,"Proton pump inhibitors or PCABs may increase the serum concentration of Methotrexate. The mechanism involves inhibition of Methotrexate elimination due to proton pump inhibition of the renal hydrogen / potassium ATPase pump. PCABs are pharmacologically similar to PPIs, they are expected to interact in similar manner","H2 blockers, Antacids",D
+METHOTREXATE,RABEPRAZOLE,"Proton pump inhibitors or PCABs may increase the serum concentration of Methotrexate. The mechanism involves inhibition of Methotrexate elimination due to proton pump inhibition of the renal hydrogen / potassium ATPase pump. PCABs are pharmacologically similar to PPIs, they are expected to interact in similar manner","H2 blockers, Antacids",D
+METHOTREXATE,ESOMEPRAZOLE,"Proton pump inhibitors or PCABs may increase the serum concentration of Methotrexate. The mechanism involves inhibition of Methotrexate elimination due to proton pump inhibition of the renal hydrogen / potassium ATPase pump. PCABs are pharmacologically similar to PPIs, they are expected to interact in similar manner","H2 blockers, Antacids",D
+METHOTREXATE,OMEPRAZOLE,"Proton pump inhibitors or PCABs may increase the serum concentration of Methotrexate. The mechanism involves inhibition of Methotrexate elimination due to proton pump inhibition of the renal hydrogen / potassium ATPase pump. PCABs are pharmacologically similar to PPIs, they are expected to interact in similar manner","H2 blockers, Antacids",D
+METHOTREXATE,LANSOPRAZOLE,"Proton pump inhibitors or PCABs may increase the serum concentration of Methotrexate. The mechanism involves inhibition of Methotrexate elimination due to proton pump inhibition of the renal hydrogen / potassium ATPase pump. PCABs are pharmacologically similar to PPIs, they are expected to interact in similar manner","H2 blockers, Antacids",D
+METHOTREXATE,CELECOXIB,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,ETORICOXIB,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,PARECOXIB,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,NIMESULIDE,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,DICLOFENAC,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,ACECLOFENAC,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,MELOXICAM,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,ETODOLAC,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,ASPIRIN,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,IBUPROFEN,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,NAPROXEN,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,KETOPROFEN,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,FLURBIPROFEN,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,MEFENAMIC ACID,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,PIROXICAM,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,TENOXICAM,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,INDOMETHACIN,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,KETOROLAC,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,NABUMETONE,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,PHENYLBUTAZONE,NSAIDs increases the serum concentration of Methotrexate. Severity of interaction is likely higher with higher dose of Methotrexate which can lead to haematological and gastrointestinal toxicity. MOA: Inhibition of renal excretion of Methotrexate by inhibiting renal transport protein and/ or decreasing renal perfusion,"Separate the doses OR Paracetamol, Flupirtine",D
+METHOTREXATE,SULFAMETHOXAZOLE / TRIMETHOPRIM,"Trimethoprim may enhance the toxic effect of Methotrexate. SMX-TMP may increase the concentration of free Methotrexate by approximately 30% and reduce its excretion by approximately one half. Both Methotrexate and Sulfamethoxazole-Trimethoprim combination may contribute to folate deficiency, which might affect bone marrow activity. MOA: Unclear","Separate the doses OR Sulfasalazine, Nitrofurantoin, Ciprofloxacin",D
+METOCLOPRAMIDE,OLANZAPINE,Metoclopramide may enhance the toxic effect of Antipsychotic agents. Combination with agents associated with neuroleptic malignant syndrome or extrapyramidal reaction (Olanzapine/ Quetiapine) should be avoided according to Metoclopramide prescribing information. MOA: Inhibition of central D2 receptor by Metoclopramide: may cause an imbalance in dopaminergic activity between the nigrostriatal and striatopallidal pathway: leading to movement related side effects,Itopride,X
+METOCLOPRAMIDE,QUETIAPINE,Metoclopramide may enhance the toxic effect of Antipsychotic agents. Combination with agents associated with neuroleptic malignant syndrome or extrapyramidal reaction (Olanzapine/ Quetiapine) should be avoided according to Metoclopramide prescribing information. MOA: Inhibition of central D2 receptor by Metoclopramide: may cause an imbalance in dopaminergic activity between the nigrostriatal and striatopallidal pathway: leading to movement related side effects,Itopride,X
+MORPHINE,GABAPENTIN,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,Separate the doses,D
+MORPHINE,TRAMADOL,Additive CNS depressant effect,Separate the doses,D
+MORPHINE,LEVETIRACETAM,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,Separate the doses,D
+MORPHINE,NORTRIPTYLINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+MORPHINE,AMITRIPTYLINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,Separate the doses,D
+MORPHINE,OLANZAPINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+MORPHINE,ALPRAZOLAM,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+MORPHINE,PREGABALIN,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+NILOTINIB,DOMPERIDONE,Nilotinib: Increases the serum concentration of Domperidone. Domperidone: Increases the QT prolonging effect of Nilotinib. MOA: Inhibition of CYP3A4 mediated metabolism of Domperidone by Nilotinib,"Metoclopramide, Ondansetron, Itopride (Ganaton)",X
+OLANZAPINE,HYDROXYZINE,"Additive or synergistic CNS depressant effect with hydroxyzine, which is known to possess CNS depressant effects",Separate the doses. Reduce the dose of CNS depressants when used with Hydroxyzine,D
+ONDANSETRON,DOMPERIDONE,Domperidone may enhance the QT prolonging effect of Ondansetron. Risk is likely greater with IV ondansetron,Separate the doses,D
+RIBOCICLIB,DOMPERIDONE,Ribociclib: Increases the serum concentration of Domperidone. Domperidone: Increases the QT prolonging effect of Ribociclib. MOA: Inhibition of CYP3A4 mediated metabolism of Domperidone by Ribociclib,"Metoclopramide, Ondansetron, Itopride (Ganaton)",X
+SUCRALFATE,CALCIUM,Antacid property of Calcium may diminish therapeutic effect of Sucralfate. MOA: Possibility of decreased binding of sucralfate with the gastro-duodenal mucosa to change in gastric Ph,"Separate the administration of antacid at least by 30 mins. PPIs, H2 Blockers",D
+SUCRALFATE,ANTACID / MAGNESIUM HYDROXIDE,Antacid property of Magnesium hydroxide may diminish therapeutic effect of Sucralfate. MOA: Possibility of decreased binding of sucralfate with the gastro-duodenal mucosa to change in gastric pH,"Separate the administration of antacid at least by 30 mins. PPIs, H2 Blockers",D
+SULFAMETHOXAZOLE + TRIMETHOPRIM,SODIUM PICOSULFATE,Antibiotic may diminish the therapeutic effect of sodium picosulfate. MOA: Destruction of colonic bacteria leads to minimum conversion of sodium picosulfate to its active metabolite,Separate the doses,D
+TAPENTADOL,NORTRIPTYLINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TAPENTADOL,OLANZAPINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TAPENTADOL,LEVETIRACETAM,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,Separate the doses,D
+TAPENTADOL,CLONAZEPAM,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TAPENTADOL,DIAZEPAM,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TAPENTADOL,QUETIAPINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TAPENTADOL,LEVOCETIRIZINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,Separate the doses,D
+TAPENTADOL,BILASTINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TAPENTADOL,GABAPENTIN,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TAPENTADOL,PREGABALIN,Additive CNS depressant effect,Separate the doses,D
+TERBUTALINE,PROPRANOLOL,Beta blocker: may diminish the bronchodilatory effect of Beta 2 Agonist. MOA: Opposing pharmacological effect,"Cardioselective beta blocker is preferable (in patients with Asthma or COPD). Atenolol, Metoprolol",X
+TERBUTALINE,CARVEDILOL,Beta blocker: may diminish the bronchodilatory effect of Beta 2 Agonist. MOA: Opposing pharmacological effect,"Cardioselective beta blocker is preferable (in patients with Asthma or COPD). Atenolol, Metoprolol",X
+THALIDOMIDE,PREGABALIN,Potential additive sedative effect when Thalidomide is used concurrently with medicines with CNS depressant property,--,X
+THALIDOMIDE,MORPHINE,CNS depressant property of morphine may enhance the CNS depressant effect of Thalidomide,Separate the dosing,X
+TORSEMIDE,ACECLOFENAC,NSAIDs may diminish the diuretic effect of Loop Diuretics. Loop Diuretic may enhance the nephrotoxic effect of NSAIDs,Diuretics other than loop diuretics. OR Separate the dosing by 2 hours,D
+TORSEMIDE,ETORICOXIB,NSAIDs may diminish the diuretic effect of Loop Diuretics. Loop Diuretic may enhance the nephrotoxic effect of NSAIDs,Diuretics other than loop diuretics. OR Separate the dosing by 2 hours,D
+TRAMADOL,GABAPENTIN,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TRAMADOL,CHLORPHENIRAMINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,Separate the doses,D
+TRAMADOL,LEVOCETIRIZINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,Separate the doses,D
+TRAMADOL,OLANZAPINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TRAMADOL,HYOSCINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,Separate the doses,D
+TRAMADOL,PHENIRAMINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TRAMADOL,CODEINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,Separate the doses,D
+TRAMADOL,TRIPROLIDINE,CNS depressants may enhance the CNS depressant effect of Opioid agonists. Coadministration of Opioids and skeletal muscle relaxant: increased risk of injuries due to falls - especially among older adults of age >66,--,D
+TRAMADOL,LEVETIRACETAM,Additive CNS depressant effect,Separate the doses,D
+TRAMADOL,LORAZEPAM,Additive CNS depressant effect,Separate the doses,D
+6-MERCAPTOPURINE,ZOLPIDEM,Additive CNS depression due to sedative effects,Lorazepam,D
+6-MERCAPTOPURINE,BENADRYL,Additive CNS depression due to sedative effects,Cetirizine,D
+6-MERCAPTOPURINE,DULOXETINE,Possible increase in serotonergic effects,Venlafaxine,D
+6-MERCAPTOPURINE,FLUOXETINE,Possible increase in serotonergic effects,Sertraline,D
+6-MERCAPTOPURINE,ESCITALOPRAM,Possible increase in serotonergic effects,Citalopram,D
+6-MERCAPTOPURINE,PAROXETINE,Possible increase in serotonergic effects,Fluvoxamine,D
+6-MERCAPTOPURINE,SERTRALINE,Possible increase in serotonergic effects,Venlafaxine,D
+6-MERCAPTOPURINE,ALLOPURINOL,Increased risk of myelosuppression due to inhibition of xanthine oxidase,Febuxostat,X
+6-MERCAPTOPURINE,WARFARIN,Potential increase in anticoagulant effect due to altered metabolism,Apixaban,D
+ABIRATERONE,ACETAMINOPHEN,Potential alteration in liver metabolism,Ibuprofen,D
+ABIRATERONE,ALLOPURINOL,Possible altered uric acid metabolism,Febuxostat,D
+ABIRATERONE,ASPIRIN,Increased bleeding risk due to antiplatelet effects,Paracetamol,D
+ABIRATERONE,ATORVASTATIN,Potential increase in statin levels due to CYP3A4 inhibition,Rosuvastatin,D
+ABIRATERONE,CIPROFLOXACIN,Potential increase in abiraterone levels due to CYP3A4 inhibition,Levofloxacin,D
+ABIRATERONE,CLARITHROMYCIN,Increased abiraterone levels due to CYP3A4 inhibition,Azithromycin,X
+ABIRATERONE,DILTIAZEM,Increased abiraterone levels due to CYP3A4 inhibition,Amlodipine,D
+ABIRATERONE,FLUCONAZOLE,Increased abiraterone levels due to CYP3A4 inhibition,Itraconazole,D
+ANASTROZOLE,ESTROGEN,Antagonistic effects on estrogen receptor activity,Avoid estrogen use,X
+ANASTROZOLE,TAMOXIFEN,Competitive inhibition of estrogen suppression,Letrozole,X
+BENDAMUSTINE,DOXORUBICIN,Additive myelosuppression due to bone marrow toxicity,Consult prescriber,X
+BENDAMUSTINE,CYCLOPHOSPHAMIDE,Additive myelosuppression due to bone marrow toxicity,Consult prescriber,X
+BENDAMUSTINE,RITUXIMAB,Additive immunosuppression,Consult prescriber,D
+BICALUTAMIDE,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+BICALUTAMIDE,ASPIRIN,Increased bleeding risk due to antiplatelet effects,Paracetamol,D
+BLEOMYCIN,CISPLATIN,Additive nephrotoxicity and ototoxicity,Carboplatin,X
+BLEOMYCIN,VINBLASTINE,Additive myelosuppression,Consult prescriber,D
+BORTEZOMIB,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Bortezomib. MOA: Inhibition of CYP3A4,Itraconazole,D
+BORTEZOMIB,RIFAMPICIN,Rifampicin may decrease the serum concentration of Bortezomib. MOA: Induction of CYP3A4,Consult prescriber,D
+CABAZITAXEL,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Cabazitaxel. MOA: Inhibition of CYP3A4,Itraconazole,D
+CABAZITAXEL,RIFAMPICIN,Rifampicin may decrease the serum concentration of Cabazitaxel. MOA: Induction of CYP3A4,Consult prescriber,D
+CAPECITABINE,WARFARIN,Increased anticoagulant effect due to inhibition of CYP2C9,Apixaban,D
+CAPECITABINE,PHENYTOIN,Increased phenytoin levels due to CYP2C9 inhibition,Levetiracetam,D
+CAPECITABINE,LEUCOVORIN,Enhanced toxicity of fluorouracil derivatives,Consult prescriber,D
+CAPECITABINE,CISPLATIN,Additive myelosuppression and nephrotoxicity,Carboplatin,X
+CYCLOPHOSPHAMIDE,WARFARIN,Potential increase in anticoagulant effect due to altered metabolism,Apixaban,D
+CYCLOPHOSPHAMIDE,DOXORUBICIN,Additive cardiotoxicity and myelosuppression,Consult prescriber,X
+CYCLOPHOSPHAMIDE,RITUXIMAB,Additive immunosuppression,Consult prescriber,D
+CYTARABINE,METHOTREXATE,Additive myelosuppression and neurotoxicity,Consult prescriber,X
+CYTARABINE,FLUDARABINE,Additive myelosuppression,Consult prescriber,D
+DACARBAZINE,FOTEMUSTINE,Additive myelosuppression,Consult prescriber,D
+DAUNORUBICIN,CYCLOPHOSPHAMIDE,Additive cardiotoxicity and myelosuppression,Consult prescriber,X
+DOCETAXEL,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Docetaxel. MOA: Inhibition of CYP3A4,Itraconazole,D
+DOCETAXEL,RIFAMPICIN,Rifampicin may decrease the serum concentration of Docetaxel. MOA: Induction of CYP3A4,Consult prescriber,D
+DOXORUBICIN,CYCLOPHOSPHAMIDE,Additive cardiotoxicity and myelosuppression,Consult prescriber,X
+DOXORUBICIN,TRASTUZUMAB,Enhanced cardiotoxicity,Consult prescriber,X
+EPIRUBICIN,CIMETIDINE,Cimetidine may increase the serum concentration of Epirubicin. MOA: Inhibition of metabolism,Ranitidine,D
+ETOPOSIDE,WARFARIN,Increased anticoagulant effect due to altered metabolism,Apixaban,D
+ETOPOSIDE,CISPLATIN,Additive myelosuppression and nephrotoxicity,Carboplatin,X
+EVEROLIMUS,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Everolimus. MOA: Inhibition of CYP3A4,Itraconazole,D
+EVEROLIMUS,RIFAMPICIN,Rifampicin may decrease the serum concentration of Everolimus. MOA: Induction of CYP3A4,Consult prescriber,D
+EXEMESTANE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Exemestane. MOA: Induction of CYP3A4,Consult prescriber,D
+FLUDARABINE,CYTARABINE,Additive myelosuppression,Consult prescriber,D
+FLUDARABINE,PENTOSTATIN,Increased risk of pulmonary toxicity,Consult prescriber,X
+FLUOROURACIL,WARFARIN,Increased anticoagulant effect due to inhibition of CYP2C9,Apixaban,D
+FLUOROURACIL,PHENYTOIN,Increased phenytoin levels due to CYP2C9 inhibition,Levetiracetam,D
+FLUOROURACIL,CISPLATIN,Additive myelosuppression and nephrotoxicity,Carboplatin,X
+GEMCITABINE,CISPLATIN,Additive myelosuppression and nephrotoxicity,Carboplatin,X
+GEMCITABINE,WARFARIN,Potential increase in anticoagulant effect due to altered metabolism,Apixaban,D
+HYDROXYUREA,DIDANOSINE,Increased risk of pancreatitis and hepatotoxicity,Consult prescriber,X
+IFOSFAMIDE,CISPLATIN,Additive nephrotoxicity and myelosuppression,Carboplatin,X
+IFOSFAMIDE,WARFARIN,Potential increase in anticoagulant effect due to altered metabolism,Apixaban,D
+IMATINIB,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+IMATINIB,ACETAMINOPHEN,Potential increase in hepatotoxicity,Ibuprofen,D
+IMATINIB,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Imatinib. MOA: Inhibition of CYP3A4,Itraconazole,D
+IMATINIB,RIFAMPICIN,Rifampicin may decrease the serum concentration of Imatinib. MOA: Induction of CYP3A4,Consult prescriber,D
+IMATINIB,SIMVASTATIN,Increased simvastatin levels due to CYP3A4 inhibition,Pravastatin,D
+IRINOTECAN,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Irinotecan. MOA: Inhibition of CYP3A4,Itraconazole,D
+IXABEPILONE,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Ixabepilone. MOA: Inhibition of CYP3A4,Itraconazole,D
+IXABEPILONE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Ixabepilone. MOA: Induction of CYP3A4,Consult prescriber,D
+LENALIDOMIDE,DIGOXIN,Increased digoxin levels due to P-glycoprotein inhibition,Metoprolol,D
+LETROZOLE,TAMOXIFEN,Competitive inhibition of estrogen suppression,Anastrozole,X
+LOMUSTINE,CIMETIDINE,Cimetidine may increase the serum concentration of Lomustine. MOA: Inhibition of metabolism,Ranitidine,D
+MELPHALAN,CYCLOSPORINE,Increased risk of nephrotoxicity,Tacrolimus,D
+MERCAPTOPURINE,ALLOPURINOL,Increased risk of myelosuppression due to inhibition of xanthine oxidase,Febuxostat,X
+MERCAPTOPURINE,WARFARIN,Potential increase in anticoagulant effect due to altered metabolism,Apixaban,D
+METHOTREXATE,ASPIRIN,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+METHOTREXATE,NSAIDS,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+METHOTREXATE,PENICILLIN,Increased methotrexate levels due to reduced renal clearance,Cephalexin,D
+METHOTREXATE,PHENYTOIN,Phenytoin may decrease the serum concentration of Methotrexate. MOA: CYP3A4-mediated metabolism,Levetiracetam,D
+METHOTREXATE,PROBENECID,Increased methotrexate levels due to reduced renal clearance,Consult prescriber,D
+METHOTREXATE,TRIMETHOPRIM,Increased risk of myelosuppression due to folate antagonism,Ciprofloxacin,D
+MITOMYCIN,VINBLASTINE,Additive myelosuppression,Consult prescriber,D
+MITOXANTRONE,CYCLOPHOSPHAMIDE,Additive cardiotoxicity and myelosuppression,Consult prescriber,X
+OXALIPLATIN,WARFARIN,Potential increase in anticoagulant effect due to altered metabolism,Apixaban,D
+PACLITAXEL,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Paclitaxel. MOA: Inhibition of CYP3A4,Itraconazole,D
+PACLITAXEL,RIFAMPICIN,Rifampicin may decrease the serum concentration of Paclitaxel. MOA: Induction of CYP3A4,Consult prescriber,D
+PEMETREXED,IBUPROFEN,Increased pemetrexed levels due to reduced renal clearance,Paracetamol,D
+PEMETREXED,ASPIRIN,Increased pemetrexed levels due to reduced renal clearance,Paracetamol,D
+PROCARBAZINE,ALCOHOL,Disulfiram-like reaction due to inhibition of aldehyde dehydrogenase,Avoid alcohol,X
+PROCARBAZINE,TYRAMINE,Hypertensive crisis due to MAO inhibition,Avoid tyramine-rich foods,X
+TAMOXIFEN,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+TAMOXIFEN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Tamoxifen. MOA: Induction of CYP3A4,Consult prescriber,D
+TAMOXIFEN,SSRIs,Decreased efficacy of tamoxifen due to CYP2D6 inhibition,Venlafaxine,D
+TEMOZOLOMIDE,VALPROIC ACID,Increased risk of myelosuppression due to altered metabolism,Levetiracetam,D
+TEMSIROLIMUS,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Temsirolimus. MOA: Inhibition of CYP3A4,Itraconazole,D
+TEMSIROLIMUS,RIFAMPICIN,Rifampicin may decrease the serum concentration of Temsirolimus. MOA: Induction of CYP3A4,Consult prescriber,D
+THALIDOMIDE,DEXAMETHASONE,Additive thrombogenic effect,Consult prescriber,D
+TOPOTECAN,PHENYTOIN,Phenytoin may decrease the serum concentration of Topotecan. MOA: Induction of metabolism,Levetiracetam,D
+TRETINOIN,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Tretinoin. MOA: Inhibition of CYP3A4,Itraconazole,D
+TRETINOIN,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Tretinoin. MOA: Inhibition of CYP3A4,Azithromycin,D
+VINBLASTINE,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Vinblastine. MOA: Inhibition of CYP3A4,Azithromycin,D
+VINBLASTINE,PHENYTOIN,Phenytoin may decrease the serum concentration of Vinblastine. MOA: Induction of metabolism,Levetiracetam,D
+VINCRISTINE,PHENYTOIN,Phenytoin may decrease the serum concentration of Vincristine. MOA: Induction of metabolism,Levetiracetam,D
+VINCRISTINE,ITRACONAZOLE,Itraconazole may increase the serum concentration of Vincristine. MOA: Inhibition of CYP3A4,Fluconazole,D
+VINORELBINE,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Vinorelbine. MOA: Inhibition of CYP3A4,Itraconazole,D
+VINORELBINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Vinorelbine. MOA: Induction of CYP3A4,Consult prescriber,D
+ACECLOFENAC,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+ACECLOFENAC,DIGOXIN,Increased digoxin levels due to reduced renal clearance,Metoprolol,D
+ACECLOFENAC,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+ACECLOFENAC,CYCLOSPORINE,Increased risk of nephrotoxicity,Tacrolimus,D
+ACECLOFENAC,QUINOLONES,Increased risk of seizures due to CNS stimulation,Consult prescriber,D
+ACETYL CYSTEINE,IRON,Chelation reducing iron absorption,Separate the doses,D
+ACETYL CYSTEINE,CALCIUM,Chelation reducing calcium absorption,Separate the doses,D
+ACYCLOVIR,FOSCARNET,Additive nephrotoxicity due to renal effects,Valacyclovir,X
+ACYCLOVIR,PROBENECID,Increased acyclovir levels due to reduced renal clearance,Consult prescriber,D
+ACYCLOVIR,TENOFOVIR,Additive nephrotoxicity,Valacyclovir,X
+ACYCLOVIR,ZIDOVUDINE,Additive neurotoxicity,Consult prescriber,D
+ALBENDAZOLE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Albendazole. MOA: Induction of metabolism,Ivermectin,D
+ALBENDAZOLE,PHENYTOIN,Phenytoin may decrease the serum concentration of Albendazole. MOA: Induction of metabolism,Ivermectin,D
+ALBENDAZOLE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Albendazole. MOA: Induction of CYP3A4,Ivermectin,D
+AMIKACIN,AMPHOTERICIN B,Additive nephrotoxicity,Consult prescriber,X
+AMIKACIN,CEPHALOSPORIN,Additive nephrotoxicity,Consult prescriber,D
+AMIKACIN,CISPLATIN,Additive nephrotoxicity due to renal effects,Gentamicin (if appropriate),X
+AMIKACIN,COLISTIN,Additive nephrotoxicity and neurotoxicity,Consult prescriber,X
+AMIKACIN,CYCLOSPORINE,Additive nephrotoxicity,Tacrolimus,X
+AMIKACIN,LOOP DIURETICS,Additive ototoxicity and nephrotoxicity,Consult prescriber,X
+AMIKACIN,TACROLIMUS,Additive nephrotoxicity,Consult prescriber,X
+AMIKACIN,VANCOMYCIN,Additive nephrotoxicity and ototoxicity,Consult prescriber,X
+AMLODIPINE,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Amlodipine. MOA: Inhibition of CYP3A4,Azithromycin,D
+AMLODIPINE,SIMVASTATIN,Increased simvastatin levels due to CYP3A4 inhibition,Pravastatin,D
+AMOXICILLIN,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Cephalexin,D
+AMOXICILLIN,PROBENECID,Increased amoxicillin levels due to reduced renal clearance,Consult prescriber,D
+AMOXICILLIN,WARFARIN,Potential increase in anticoagulant effect due to altered gut flora,Apixaban,D
+AMOXICILLIN,ALLOPURINOL,Increased risk of rash,Febuxostat,D
+AMOXICILLIN,TETRACYCLINE,Decreased efficacy of tetracycline due to antagonism,Consult prescriber,D
+AMPICILLIN,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Cephalexin,D
+AMPICILLIN,PROBENECID,Increased ampicillin levels due to reduced renal clearance,Consult prescriber,D
+AMPICILLIN,WARFARIN,Potential increase in anticoagulant effect due to altered gut flora,Apixaban,D
+AMPICILLIN,ALLOPURINOL,Increased risk of rash,Febuxostat,D
+APREPITANT,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Aprepitant. MOA: Inhibition of CYP3A4,Azithromycin,D
+APREPITANT,DEXAMETHASONE,Aprepitant may increase the serum concentration of Dexamethasone. MOA: Inhibition of CYP3A4,Dose adjustment of dexamethasone,D
+APREPITANT,DILTIAZEM,Diltiazem may increase the serum concentration of Aprepitant. MOA: Inhibition of CYP3A4,Amlodipine,D
+APREPITANT,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Aprepitant. MOA: Inhibition of CYP3A4,Azithromycin,D
+APREPITANT,ITRACONAZOLE,Itraconazole may increase the serum concentration of Aprepitant. MOA: Inhibition of CYP3A4,Fluconazole,D
+APREPITANT,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Aprepitant. MOA: Inhibition of CYP3A4,Itraconazole,D
+APREPITANT,METHYLPREDNISOLONE,Aprepitant may increase the serum concentration of Methylprednisolone. MOA: Inhibition of CYP3A4,Dose adjustment of methylprednisolone,D
+APREPITANT,RIFAMPICIN,Rifampicin may decrease the serum concentration of Aprepitant. MOA: Induction of CYP3A4,Consult prescriber,D
+APREPITANT,RITONAVIR,Ritonavir may increase the serum concentration of Aprepitant. MOA: Inhibition of CYP3A4,Consult prescriber,D
+APREPITANT,VERAPAMIL,Verapamil may increase the serum concentration of Aprepitant. MOA: Inhibition of CYP3A4,Amlodipine,D
+ASPIRIN,ACECLOFENAC,Increased risk of gastrointestinal bleeding,Paracetamol,D
+ASPIRIN,IBUPROFEN,Decreased antiplatelet effect of aspirin,Paracetamol,D
+ASPIRIN,KETOROLAC,Increased risk of gastrointestinal bleeding,Paracetamol,D
+ASPIRIN,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+ASPIRIN,NAPROXEN,Increased risk of gastrointestinal bleeding,Paracetamol,D
+ASPIRIN,PIROXICAM,Increased risk of gastrointestinal bleeding,Paracetamol,D
+ASPIRIN,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+ASPIRIN,VALPROATE,Increased valproate levels due to displacement from protein binding,Levetiracetam,D
+ATORVASTATIN,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Rosuvastatin,D
+ATORVASTATIN,CYCLOSPORINE,Increased atorvastatin levels due to P-glycoprotein inhibition,Pravastatin,D
+ATORVASTATIN,DILTIAZEM,Diltiazem may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Amlodipine,D
+ATORVASTATIN,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Azithromycin,D
+ATORVASTATIN,GEMFIBROZIL,Increased risk of myopathy due to altered metabolism,Fenofibrate,D
+ATORVASTATIN,ITRACONAZOLE,Itraconazole may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Fluconazole,D
+ATORVASTATIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Atorvastatin. MOA: Induction of CYP3A4,Consult prescriber,D
+ATORVASTATIN,VERAPAMIL,Verapamil may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Amlodipine,D
+AZATHIOPRINE,ACECLOFENAC,Increased risk of myelosuppression,Paracetamol,D
+AZATHIOPRINE,ALLOPURINOL,Increased azathioprine levels due to inhibition of xanthine oxidase,Febuxostat,X
+AZATHIOPRINE,FEBUXOSTAT,Increased azathioprine levels due to inhibition of xanthine oxidase,Consult prescriber,D
+AZATHIOPRINE,WARFARIN,Potential increase in anticoagulant effect due to altered metabolism,Apixaban,D
+AZITHROMYCIN,CLARITHROMYCIN,Potential competition for metabolism,Erythromycin,D
+AZITHROMYCIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Azithromycin. MOA: Induction of metabolism,Consult prescriber,D
+AZITHROMYCIN,WARFARIN,Potential increase in anticoagulant effect due to altered gut flora,Apixaban,D
+AZITHROMYCIN,THEOPHYLLINE,Potential increase in theophylline levels due to altered metabolism,Consult prescriber,D
+BISOPROLOL,CLONIDINE,Increased risk of bradycardia and hypotension,Metoprolol,D
+BISOPROLOL,RIFAMPICIN,Rifampicin may decrease the serum concentration of Bisoprolol. MOA: Induction of metabolism,Consult prescriber,D
+BUDESONIDE,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Budesonide. MOA: Inhibition of CYP3A4,Azithromycin,D
+BUDESONIDE,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Budesonide. MOA: Inhibition of CYP3A4,Azithromycin,D
+BUDESONIDE,ITRACONAZOLE,Itraconazole may increase the serum concentration of Budesonide. MOA: Inhibition of CYP3A4,Fluconazole,D
+BUDESONIDE,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Budesonide. MOA: Inhibition of CYP3A4,Itraconazole,D
+BUDESONIDE,RITONAVIR,Ritonavir may increase the serum concentration of Budesonide. MOA: Inhibition of CYP3A4,Consult prescriber,D
+CAFFEINE,CIPROFLOXACIN,Ciprofloxacin may increase the serum concentration of Caffeine. MOA: Inhibition of CYP1A2,Levofloxacin,D
+CAFFEINE,THEOPHYLLINE,Additive CNS stimulation,Consult prescriber,D
+CALCITRIOL,CHOLESTYRAMINE,Decreased absorption of calcitriol due to bile acid binding,Separate the doses,D
+CALCITRIOL,THIAZIDE DIURETICS,Increased risk of hypercalcemia,Loop diuretics,D
+CARBAMAZEPINE,CIMETIDINE,Cimetidine may increase the serum concentration of Carbamazepine. MOA: Inhibition of metabolism,Ranitidine,D
+CARBAMAZEPINE,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Azithromycin,D
+CARBAMAZEPINE,CLONAZEPAM,Additive CNS depression,Levetiracetam,D
+CARBAMAZEPINE,DILTIAZEM,Diltiazem may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Amlodipine,D
+CARBAMAZEPINE,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Azithromycin,D
+CARBAMAZEPINE,FLUOXETINE,Fluoxetine may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Sertraline,D
+CARBAMAZEPINE,ISONIAZID,Increased carbamazepine levels due to inhibition of metabolism,Consult prescriber,D
+CARBAMAZEPINE,ITRACONAZOLE,Itraconazole may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Fluconazole,D
+CARBAMAZEPINE,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Itraconazole,D
+CARBAMAZEPINE,PHENYTOIN,Phenytoin may decrease the serum concentration of Carbamazepine. MOA: Induction of metabolism,Levetiracetam,D
+CARBAMAZEPINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Carbamazepine. MOA: Induction of CYP3A4,Consult prescriber,D
+CARBAMAZEPINE,VERAPAMIL,Verapamil may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Amlodipine,D
+CEFIXIME,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Cefixime. MOA: Induction of metabolism,Ceftriaxone,D
+CEFIXIME,WARFARIN,Potential increase in anticoagulant effect due to altered gut flora,Apixaban,D
+CEFPODOXIME,PROBENECID,Increased cefpodoxime levels due to reduced renal clearance,Consult prescriber,D
+CEFPODOXIME,WARFARIN,Potential increase in anticoagulant effect due to altered gut flora,Apixaban,D
+CEFTRIAXONE,CHLORAMPHENICOL,Antagonistic effects on bacterial protein synthesis,Consult prescriber,D
+CEFTRIAXONE,WARFARIN,Potential increase in anticoagulant effect due to altered gut flora,Apixaban,D
+CEFUROXIME,PROBENECID,Increased cefuroxime levels due to reduced renal clearance,Consult prescriber,D
+CELECOXIB,ACECLOFENAC,Increased risk of gastrointestinal bleeding,Paracetamol,D
+CELECOXIB,FLUCONAZOLE,Fluconazole may increase the serum concentration of Celecoxib. MOA: Inhibition of CYP2C9,Itraconazole,D
+CELECOXIB,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+CELECOXIB,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+CELECOXIB,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+CETIRIZINE,THEOPHYLLINE,Potential increase in theophylline levels due to altered metabolism,Consult prescriber,D
+CHOLECALCIFEROL,CHOLESTYRAMINE,Decreased absorption of cholecalciferol due to bile acid binding,Separate the doses,D
+CHOLECALCIFEROL,THIAZIDE DIURETICS,Increased risk of hypercalcemia,Loop diuretics,D
+CIPROFLOXACIN,CAFFEINE,Ciprofloxacin may increase the serum concentration of Caffeine. MOA: Inhibition of CYP1A2,Levofloxacin,D
+CIPROFLOXACIN,CYCLOSPORINE,Increased cyclosporine levels due to P-glycoprotein inhibition,Tacrolimus,D
+CIPROFLOXACIN,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Levofloxacin,D
+CIPROFLOXACIN,PHENYTOIN,Phenytoin may decrease the serum concentration of Ciprofloxacin. MOA: Induction of metabolism,Levofloxacin,D
+CIPROFLOXACIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Ciprofloxacin. MOA: Induction of CYP3A4,Levofloxacin,D
+CIPROFLOXACIN,THEOPHYLLINE,Ciprofloxacin may increase the serum concentration of Theophylline. MOA: Inhibition of CYP1A2,Levofloxacin,D
+CIPROFLOXACIN,TIZANIDINE,Increased tizanidine levels due to CYP1A2 inhibition,Consult prescriber,X
+CIPROFLOXACIN,WARFARIN,Potential increase in anticoagulant effect due to altered metabolism,Apixaban,D
+CIPROFLOXACIN,ZINC,Chelation reducing ciprofloxacin absorption,Separate the doses,D
+CLARITHROMYCIN,ATORVASTATIN,Clarithromycin may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Rosuvastatin,D
+CLARITHROMYCIN,CARBAMAZEPINE,Clarithromycin may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Azithromycin,D
+CLARITHROMYCIN,CYCLOSPORINE,Increased cyclosporine levels due to CYP3A4 inhibition,Azithromycin,D
+CLARITHROMYCIN,DIGOXIN,Increased digoxin levels due to P-glycoprotein inhibition,Azithromycin,D
+CLARITHROMYCIN,ITRACONAZOLE,Mutual increase in serum concentrations due to CYP3A4 inhibition,Fluconazole,D
+CLARITHROMYCIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Clarithromycin. MOA: Induction of CYP3A4,Azithromycin,D
+CLARITHROMYCIN,SIMVASTATIN,Clarithromycin may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,X
+CLARITHROMYCIN,THEOPHYLLINE,Clarithromycin may increase the serum concentration of Theophylline. MOA: Inhibition of CYP3A4,Azithromycin,D
+CLARITHROMYCIN,VERAPAMIL,Mutual increase in serum concentrations due to CYP3A4 inhibition,Amlodipine,D
+CLARITHROMYCIN,WARFARIN,Increased anticoagulant effect due to CYP3A4 inhibition,Apixaban,D
+CLOBAZAM,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Clobazam. MOA: Induction of metabolism,Levetiracetam,D
+CLOBAZAM,PHENYTOIN,Phenytoin may decrease the serum concentration of Clobazam. MOA: Induction of metabolism,Levetiracetam,D
+CLOBAZAM,RIFAMPICIN,Rifampicin may decrease the serum concentration of Clobazam. MOA: Induction of CYP3A4,Consult prescriber,D
+CLOBAZAM,VALPROATE,Additive CNS depression,Levetiracetam,D
+CLOBAZAM,FLUCONAZOLE,Fluconazole may increase the serum concentration of Clobazam. MOA: Inhibition of CYP2C19,Itraconazole,D
+CLONAZEPAM,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Clonazepam. MOA: Induction of metabolism,Levetiracetam,D
+CLONAZEPAM,PHENYTOIN,Phenytoin may decrease the serum concentration of Clonazepam. MOA: Induction of metabolism,Levetiracetam,D
+CLONAZEPAM,RIFAMPICIN,Rifampicin may decrease the serum concentration of Clonazepam. MOA: Induction of CYP3A4,Consult prescriber,D
+CLONAZEPAM,VALPROATE,Additive CNS depression,Levetiracetam,D
+CLONAZEPAM,FLUCONAZOLE,Fluconazole may increase the serum concentration of Clonazepam. MOA: Inhibition of CYP3A4,Itraconazole,D
+CLOPIDOGREL,ASPIRIN,Increased risk of bleeding due to additive antiplatelet effects,Consult prescriber,D
+CLOPIDOGREL,FLUCONAZOLE,Fluconazole may decrease the serum concentration of Clopidogrel active metabolite. MOA: Inhibition of CYP2C19,Itraconazole,D
+CLOPIDOGREL,OMEPRAZOLE,Omeprazole may decrease the serum concentration of Clopidogrel active metabolite. MOA: Inhibition of CYP2C19,Pantoprazole,D
+CLOPIDOGREL,RIFAMPICIN,Rifampicin may increase the serum concentration of Clopidogrel active metabolite. MOA: Induction of CYP2C19,Consult prescriber,D
+CLOPIDOGREL,WARFARIN,Increased risk of bleeding due to additive anticoagulant effects,Apixaban,D
+CODEINE,ALCOHOL,Additive CNS depression,Separate the doses,D
+CODEINE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Codeine active metabolite. MOA: Induction of metabolism,Consult prescriber,D
+CODEINE,CHLORZOXAZONE,Additive CNS depression,Separate the doses,D
+CODEINE,PHENYTOIN,Phenytoin may decrease the serum concentration of Codeine active metabolite. MOA: Induction of metabolism,Consult prescriber,D
+CODEINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Codeine active metabolite. MOA: Induction of CYP3A4,Consult prescriber,D
+COLCHICINE,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Colchicine. MOA: Inhibition of CYP3A4,Azithromycin,X
+COLCHICINE,CYCLOSPORINE,Increased colchicine levels due to P-glycoprotein inhibition,Consult prescriber,D
+COLCHICINE,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Colchicine. MOA: Inhibition of CYP3A4,Azithromycin,D
+COLCHICINE,ITRACONAZOLE,Itraconazole may increase the serum concentration of Colchicine. MOA: Inhibition of CYP3A4,Fluconazole,D
+COLCHICINE,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Colchicine. MOA: Inhibition of CYP3A4,Itraconazole,D
+COLCHICINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Colchicine. MOA: Induction of CYP3A4,Consult prescriber,D
+COLCHICINE,VERAPAMIL,Verapamil may increase the serum concentration of Colchicine. MOA: Inhibition of CYP3A4,Amlodipine,D
+CYCLOSPORINE,AMIKACIN,Additive nephrotoxicity,Tacrolimus,X
+CYCLOSPORINE,ATORVASTATIN,Increased atorvastatin levels due to P-glycoprotein inhibition,Pravastatin,D
+CYCLOSPORINE,CLARITHROMYCIN,Increased cyclosporine levels due to CYP3A4 inhibition,Azithromycin,D
+CYCLOSPORINE,COLCHICINE,Increased colchicine levels due to P-glycoprotein inhibition,Consult prescriber,D
+CYCLOSPORINE,ERYTHROMYCIN,Increased cyclosporine levels due to CYP3A4 inhibition,Azithromycin,D
+CYCLOSPORINE,ITRACONAZOLE,Increased cyclosporine levels due to CYP3A4 inhibition,Fluconazole,D
+CYCLOSPORINE,KETOCONAZOLE,Increased cyclosporine levels due to CYP3A4 inhibition,Itraconazole,D
+CYCLOSPORINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Cyclosporine. MOA: Induction of CYP3A4,Consult prescriber,D
+CYCLOSPORINE,SIMVASTATIN,Increased simvastatin levels due to CYP3A4 inhibition,Pravastatin,D
+CYCLOSPORINE,TACROLIMUS,Additive nephrotoxicity,Consult prescriber,X
+CYCLOSPORINE,VANCOMYCIN,Additive nephrotoxicity,Consult prescriber,D
+DESLORATADINE,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Desloratadine. MOA: Inhibition of CYP3A4,Azithromycin,D
+DESLORATADINE,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Desloratadine. MOA: Inhibition of CYP3A4,Itraconazole,D
+DEXAMETHASONE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Dexamethasone. MOA: Induction of CYP3A4,Consult prescriber,D
+DEXAMETHASONE,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Dexamethasone. MOA: Inhibition of CYP3A4,Azithromycin,D
+DEXAMETHASONE,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Dexamethasone. MOA: Inhibition of CYP3A4,Azithromycin,D
+DEXAMETHASONE,ITRACONAZOLE,Itraconazole may increase the serum concentration of Dexamethasone. MOA: Inhibition of CYP3A4,Fluconazole,D
+DEXAMETHASONE,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Dexamethasone. MOA: Inhibition of CYP3A4,Itraconazole,D
+DEXAMETHASONE,PHENYTOIN,Phenytoin may decrease the serum concentration of Dexamethasone. MOA: Induction of CYP3A4,Consult prescriber,D
+DEXAMETHASONE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Dexamethasone. MOA: Induction of CYP3A4,Consult prescriber,D
+DEXTROMETHORPHAN,CITALOPRAM,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,D
+DEXTROMETHORPHAN,FLUOXETINE,Increased dextromethorphan levels due to CYP2D6 inhibition,Consult prescriber,D
+DEXTROMETHORPHAN,PAROXETINE,Increased dextromethorphan levels due to CYP2D6 inhibition,Consult prescriber,D
+DEXTROMETHORPHAN,QUINIDINE,Increased dextromethorphan levels due to CYP2D6 inhibition,Consult prescriber,D
+DEXTROMETHORPHAN,SERTRALINE,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,D
+DIAZEPAM,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Diazepam. MOA: Induction of metabolism,Lorazepam,D
+DIAZEPAM,CIMETIDINE,Cimetidine may increase the serum concentration of Diazepam. MOA: Inhibition of metabolism,Ranitidine,D
+DIAZEPAM,FLUCONAZOLE,Fluconazole may increase the serum concentration of Diazepam. MOA: Inhibition of CYP2C19,Itraconazole,D
+DIAZEPAM,PHENYTOIN,Phenytoin may decrease the serum concentration of Diazepam. MOA: Induction of metabolism,Lorazepam,D
+DIAZEPAM,RIFAMPICIN,Rifampicin may decrease the serum concentration of Diazepam. MOA: Induction of CYP3A4,Consult prescriber,D
+DICLOFENAC,ACECLOFENAC,Increased risk of gastrointestinal bleeding,Paracetamol,D
+DICLOFENAC,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+DICLOFENAC,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+DICLOFENAC,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+DIGOXIN,AMIODARONE,Increased digoxin levels due to P-glycoprotein inhibition,Metoprolol,D
+DIGOXIN,CLARITHROMYCIN,Increased digoxin levels due to P-glycoprotein inhibition,Azithromycin,D
+DIGOXIN,DILTIAZEM,Increased digoxin levels due to P-glycoprotein inhibition,Amlodipine,D
+DIGOXIN,ERYTHROMYCIN,Increased digoxin levels due to P-glycoprotein inhibition,Azithromycin,D
+DIGOXIN,ITRACONAZOLE,Increased digoxin levels due to P-glycoprotein inhibition,Fluconazole,D
+DIGOXIN,QUINIDINE,Increased digoxin levels due to P-glycoprotein inhibition,Metoprolol,D
+DIGOXIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Digoxin. MOA: Induction of P-glycoprotein,Consult prescriber,D
+DIGOXIN,VERAPAMIL,Increased digoxin levels due to P-glycoprotein inhibition,Amlodipine,D
+DILTIAZEM,ATORVASTATIN,Diltiazem may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Amlodipine,D
+DILTIAZEM,CARBAMAZEPINE,Diltiazem may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Amlodipine,D
+DILTIAZEM,CYCLOSPORINE,Increased cyclosporine levels due to CYP3A4 inhibition,Amlodipine,D
+DILTIAZEM,SIMVASTATIN,Increased simvastatin levels due to CYP3A4 inhibition,Pravastatin,D
+DOMPERIDONE,CISAPRIDE,Additive QT prolongation,Metoclopramide,X
+DOMPERIDONE,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Domperidone. MOA: Inhibition of CYP3A4,Azithromycin,X
+DOMPERIDONE,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Domperidone. MOA: Inhibition of CYP3A4,Azithromycin,X
+DOMPERIDONE,ITRACONAZOLE,Itraconazole may increase the serum concentration of Domperidone. MOA: Inhibition of CYP3A4,Fluconazole,X
+DOMPERIDONE,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Domperidone. MOA: Inhibition of CYP3A4,Itraconazole,X
+DOXEPIN,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Doxepin. MOA: Induction of CYP3A4,Consult prescriber,D
+DOXEPIN,CIMETIDINE,Cimetidine may increase the serum concentration of Doxepin. MOA: Inhibition of metabolism,Ranitidine,D
+DOXEPIN,FLUOXETINE,Increased doxepin levels due to CYP2D6 inhibition,Sertraline,D
+DOXEPIN,PAROXETINE,Increased doxepin levels due to CYP2D6 inhibition,Fluvoxamine,D
+DOXEPIN,PHENYTOIN,Phenytoin may decrease the serum concentration of Doxepin. MOA: Induction of CYP3A4,Consult prescriber,D
+DOXEPIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Doxepin. MOA: Induction of CYP3A4,Consult prescriber,D
+DOXYCYCLINE,ANTACIDS,Chelation reducing doxycycline absorption,Separate the doses,D
+DOXYCYCLINE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Doxycycline. MOA: Induction of metabolism,Minocycline,D
+DOXYCYCLINE,IRON,Chelation reducing doxycycline absorption,Separate the doses,D
+DOXYCYCLINE,PHENYTOIN,Phenytoin may decrease the serum concentration of Doxycycline. MOA: Induction of metabolism,Minocycline,D
+DOXYCYCLINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Doxycycline. MOA: Induction of CYP3A4,Minocycline,D
+DULOXETINE,CIPROFLOXACIN,Ciprofloxacin may increase the serum concentration of Duloxetine. MOA: Inhibition of CYP1A2,Levofloxacin,D
+DULOXETINE,FLUVOXAMINE,Increased duloxetine levels due to CYP1A2 inhibition,Sertraline,D
+DULOXETINE,LINEZOLID,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+DULOXETINE,TRAMADOL,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,D
+ENALAPRIL,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+ENALAPRIL,POTASSIUM SUPPLEMENTS,Increased risk of hyperkalemia,Consult prescriber,D
+ERYTHROMYCIN,ATORVASTATIN,Erythromycin may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Azithromycin,D
+ERYTHROMYCIN,CARBAMAZEPINE,Erythromycin may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Azithromycin,D
+ERYTHROMYCIN,CYCLOSPORINE,Increased cyclosporine levels due to CYP3A4 inhibition,Azithromycin,D
+ERYTHROMYCIN,SIMVASTATIN,Erythromycin may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,D
+ERYTHROMYCIN,THEOPHYLLINE,Erythromycin may increase the serum concentration of Theophylline. MOA: Inhibition of CYP3A4,Azithromycin,D
+ERYTHROMYCIN,WARFARIN,Increased anticoagulant effect due to CYP3A4 inhibition,Apixaban,D
+ESCITALOPRAM,ASPIRIN,Increased risk of bleeding due to serotonergic effects,Paracetamol,D
+ESCITALOPRAM,LINEZOLID,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+ESCITALOPRAM,TRAMADOL,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,D
+ETHAMBUTOL,RIFAMPICIN,Rifampicin may decrease the serum concentration of Ethambutol. MOA: Induction of metabolism,Consult prescriber,D
+ETODOLAC,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+ETODOLAC,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+ETODOLAC,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+ETORICOXIB,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+ETORICOXIB,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+ETORICOXIB,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+EFAVIRENZ,RIFAMPICIN,Rifampicin may decrease the serum concentration of Efavirenz. MOA: Induction of CYP3A4,Consult prescriber,D
+FAMOTIDINE,METHOTREXATE,Potential increase in methotrexate levels due to altered pH,Ranitidine,D
+FELBAMATE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Felbamate. MOA: Induction of metabolism,Levetiracetam,D
+FELBAMATE,PHENYTOIN,Phenytoin may decrease the serum concentration of Felbamate. MOA: Induction of metabolism,Levetiracetam,D
+FELBAMATE,VALPROATE,Increased valproate levels due to inhibition of metabolism,Levetiracetam,D
+FENOFIBRATE,ATORVASTATIN,Increased risk of myopathy due to additive effects,Pravastatin,D
+FENOFIBRATE,SIMVASTATIN,Increased risk of myopathy due to additive effects,Pravastatin,D
+FENOFIBRATE,WARFARIN,Increased anticoagulant effect due to displacement from protein binding,Apixaban,D
+FERROUS SULFATE,LEVOTHYROXINE,Chelation reducing levothyroxine absorption,Separate the doses,D
+FERROUS SULFATE,QUINOLONES,Chelation reducing quinolone absorption,Separate the doses,D
+FERROUS SULFATE,TETRACYCLINE,Chelation reducing tetracycline absorption,Separate the doses,D
+FLUCONAZOLE,AMITRIPTYLINE,Fluconazole may increase the serum concentration of Amitriptyline. MOA: Inhibition of CYP2C19,Itraconazole,D
+FLUCONAZOLE,CARBAMAZEPINE,Fluconazole may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Itraconazole,D
+FLUCONAZOLE,CELECOXIB,Fluconazole may increase the serum concentration of Celecoxib. MOA: Inhibition of CYP2C9,Itraconazole,D
+FLUCONAZOLE,SIMVASTATIN,Fluconazole may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,D
+FLUCONAZOLE,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+FLUDROCORTISONE,POTASSIUM SUPPLEMENTS,Increased risk of hyperkalemia,Consult prescriber,D
+FLUOXETINE,CARBAMAZEPINE,Fluoxetine may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Sertraline,D
+FLUOXETINE,LINEZOLID,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+FLUOXETINE,PHENYTOIN,Fluoxetine may increase the serum concentration of Phenytoin. MOA: Inhibition of CYP2C9,Sertraline,D
+FLUOXETINE,TRAMADOL,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,D
+FLUOXETINE,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+FLUPIRTINE,ALCOHOL,Additive CNS depression,Separate the doses,D
+FLURBIPROFEN,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+FLURBIPROFEN,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+FLURBIPROFEN,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+FLUVASTATIN,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+FLUVASTATIN,GEMFIBROZIL,Increased risk of myopathy due to altered metabolism,Fenofibrate,D
+FLUVASTATIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Fluvastatin. MOA: Induction of CYP3A4,Consult prescriber,D
+FUROSEMIDE,AMIKACIN,Additive ototoxicity and nephrotoxicity,Torsemide,X
+FUROSEMIDE,CELECOXIB,Decreased diuretic effect due to prostaglandin inhibition,Torsemide,D
+FUROSEMIDE,DIGOXIN,Increased risk of digoxin toxicity due to hypokalemia,Torsemide,D
+FUROSEMIDE,LITHIUM,Increased lithium levels due to reduced renal clearance,Torsemide,D
+GABAPENTIN,ALCOHOL,Additive CNS depression,Separate the doses,D
+GABAPENTIN,MORPHINE,Increased gabapentin levels due to reduced clearance,Separate the doses,D
+GEMFIBROZIL,ATORVASTATIN,Increased risk of myopathy due to altered metabolism,Fenofibrate,D
+GEMFIBROZIL,SIMVASTATIN,Increased risk of myopathy due to altered metabolism,Fenofibrate,X
+GEMFIBROZIL,WARFARIN,Increased anticoagulant effect due to displacement from protein binding,Apixaban,D
+GLICLAZIDE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Gliclazide. MOA: Induction of CYP2C9,Consult prescriber,D
+GLICLAZIDE,FLUCONAZOLE,Fluconazole may increase the serum concentration of Gliclazide. MOA: Inhibition of CYP2C9,Itraconazole,D
+GLIMEPIRIDE,FLUCONAZOLE,Fluconazole may increase the serum concentration of Glimepiride. MOA: Inhibition of CYP2C9,Itraconazole,D
+GLIMEPIRIDE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Glimepiride. MOA: Induction of CYP2C9,Consult prescriber,D
+HYDRALAZINE,NITRATES,Increased risk of hypotension,Consult prescriber,D
+HYDROCHLOROTHIAZIDE,LITHIUM,Increased lithium levels due to reduced renal clearance,Loop diuretics,D
+HYDROCHLOROTHIAZIDE,POTASSIUM SUPPLEMENTS,Increased risk of hyperkalemia,Consult prescriber,D
+HYDROXYCHLOROQUINE,DIGOXIN,Increased digoxin levels due to altered clearance,Metoprolol,D
+HYDROXYCHLOROQUINE,TAMOXIFEN,Increased risk of retinal toxicity,Consult prescriber,D
+HYDROXYZINE,ALCOHOL,Additive CNS depression,Separate the doses,D
+IBUPROFEN,ASPIRIN,Decreased antiplatelet effect of aspirin,Paracetamol,D
+IBUPROFEN,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+IBUPROFEN,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+IBUPROFEN,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+INDOMETHACIN,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+INDOMETHACIN,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+INDOMETHACIN,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+ISONIAZID,CARBAMAZEPINE,Increased carbamazepine levels due to inhibition of metabolism,Consult prescriber,D
+ISONIAZID,PHENYTOIN,Increased phenytoin levels due to inhibition of metabolism,Levetiracetam,D
+ISONIAZID,RIFAMPICIN,Rifampicin may decrease the serum concentration of Isoniazid. MOA: Induction of metabolism,Consult prescriber,D
+ITRACONAZOLE,ATORVASTATIN,Itraconazole may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Fluconazole,D
+ITRACONAZOLE,CARBAMAZEPINE,Itraconazole may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Fluconazole,D
+ITRACONAZOLE,CYCLOSPORINE,Increased cyclosporine levels due to CYP3A4 inhibition,Fluconazole,D
+ITRACONAZOLE,DIGOXIN,Increased digoxin levels due to P-glycoprotein inhibition,Fluconazole,D
+ITRACONAZOLE,SIMVASTATIN,Itraconazole may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,X
+ITRACONAZOLE,WARFARIN,Increased anticoagulant effect due to CYP3A4 inhibition,Apixaban,D
+KETOCONAZOLE,ATORVASTATIN,Ketoconazole may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Itraconazole,D
+KETOCONAZOLE,CARBAMAZEPINE,Ketoconazole may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Itraconazole,D
+KETOCONAZOLE,CYCLOSPORINE,Increased cyclosporine levels due to CYP3A4 inhibition,Itraconazole,D
+KETOCONAZOLE,SIMVASTATIN,Ketoconazole may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,D
+KETOCONAZOLE,WARFARIN,Increased anticoagulant effect due to CYP3A4 inhibition,Apixaban,D
+KETOPROFEN,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+KETOPROFEN,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+KETOPROFEN,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+KETOROLAC,ASPIRIN,Increased risk of gastrointestinal bleeding,Paracetamol,D
+KETOROLAC,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+KETOROLAC,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+KETOROLAC,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+LAMOTRIGINE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Lamotrigine. MOA: Induction of metabolism,Levetiracetam,D
+LAMOTRIGINE,PHENYTOIN,Phenytoin may decrease the serum concentration of Lamotrigine. MOA: Induction of metabolism,Levetiracetam,D
+LAMOTRIGINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Lamotrigine. MOA: Induction of metabolism,Consult prescriber,D
+LAMOTRIGINE,VALPROATE,Increased lamotrigine levels due to inhibition of metabolism,Levetiracetam,D
+LEVETIRACETAM,CARBAMAZEPINE,Additive CNS depression,Consult prescriber,D
+LEVETIRACETAM,PHENYTOIN,Additive CNS depression,Consult prescriber,D
+LEVOCETIRIZINE,ALCOHOL,Additive CNS depression,Separate the doses,D
+LEVOFLOXACIN,IRON,Chelation reducing levofloxacin absorption,Separate the doses,D
+LEVOFLOXACIN,THEOPHYLLINE,Potential increase in theophylline levels due to altered metabolism,Consult prescriber,D
+LEVOFLOXACIN,WARFARIN,Potential increase in anticoagulant effect due to altered metabolism,Apixaban,D
+LEVOTHYROXINE,IRON,Chelation reducing levothyroxine absorption,Separate the doses,D
+LEVOTHYROXINE,CALCIUM,Chelation reducing levothyroxine absorption,Separate the doses,D
+LIDOCAINE,CIMETIDINE,Cimetidine may increase the serum concentration of Lidocaine. MOA: Inhibition of metabolism,Ranitidine,D
+LINEZOLID,CITALOPRAM,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+LINEZOLID,ESCITALOPRAM,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+LINEZOLID,FLUOXETINE,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+LINEZOLID,PAROXETINE,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+LINEZOLID,SERTRALINE,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+LISINOPRIL,POTASSIUM SUPPLEMENTS,Increased risk of hyperkalemia,Consult prescriber,D
+LITHIUM,ACECLOFENAC,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+LITHIUM,IBUPROFEN,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+LITHIUM,THIAZIDE DIURETICS,Increased lithium levels due to reduced renal clearance,Loop diuretics,D
+LORAZEPAM,ALCOHOL,Additive CNS depression,Separate the doses,D
+LOSARTAN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Losartan. MOA: Induction of CYP2C9,Consult prescriber,D
+MEFENAMIC ACID,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+MEFENAMIC ACID,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+MEFENAMIC ACID,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+MELOXICAM,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+MELOXICAM,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+MELOXICAM,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+METFORMIN,CIMETIDINE,Increased metformin levels due to reduced renal clearance,Ranitidine,D
+METHYLPREDNISOLONE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Methylprednisolone. MOA: Induction of CYP3A4,Consult prescriber,D
+METHYLPREDNISOLONE,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Methylprednisolone. MOA: Inhibition of CYP3A4,Azithromycin,D
+METHYLPREDNISOLONE,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Methylprednisolone. MOA: Inhibition of CYP3A4,Azithromycin,D
+METHYLPREDNISOLONE,ITRACONAZOLE,Itraconazole may increase the serum concentration of Methylprednisolone. MOA: Inhibition of CYP3A4,Fluconazole,D
+METHYLPREDNISOLONE,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Methylprednisolone. MOA: Inhibition of CYP3A4,Itraconazole,D
+METHYLPREDNISOLONE,PHENYTOIN,Phenytoin may decrease the serum concentration of Methylprednisolone. MOA: Induction of CYP3A4,Consult prescriber,D
+METHYLPREDNISOLONE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Methylprednisolone. MOA: Induction of CYP3A4,Consult prescriber,D
+METOCLOPRAMIDE,CYCLOSPORINE,Increased cyclosporine absorption due to enhanced gastric motility,Itopride,D
+METOCLOPRAMIDE,DIGOXIN,Decreased digoxin absorption due to enhanced gastric motility,Itopride,D
+METRONIDAZOLE,ALCOHOL,Disulfiram-like reaction due to inhibition of aldehyde dehydrogenase,Avoid alcohol,X
+METRONIDAZOLE,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+MIDAZOLAM,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Midazolam. MOA: Inhibition of CYP3A4,Azithromycin,D
+MIDAZOLAM,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Midazolam. MOA: Inhibition of CYP3A4,Azithromycin,D
+MIDAZOLAM,ITRACONAZOLE,Itraconazole may increase the serum concentration of Midazolam. MOA: Inhibition of CYP3A4,Fluconazole,D
+MIDAZOLAM,KETOCONAZOLE,Ketoconazole may increase the serum concentration of Midazolam. MOA: Inhibition of CYP3A4,Itraconazole,D
+MIDAZOLAM,RIFAMPICIN,Rifampicin may decrease the serum concentration of Midazolam. MOA: Induction of CYP3A4,Consult prescriber,D
+MINOCYCLINE,IRON,Chelation reducing minocycline absorption,Separate the doses,D
+MORPHINE,ALCOHOL,Additive CNS depression,Separate the doses,D
+NABUMETONE,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+NABUMETONE,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+NABUMETONE,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+NAPROXEN,ASPIRIN,Increased risk of gastrointestinal bleeding,Paracetamol,D
+NAPROXEN,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+NAPROXEN,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+NAPROXEN,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+NIFEDIPINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Nifedipine. MOA: Induction of CYP3A4,Amlodipine,D
+NIMESULIDE,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+NIMESULIDE,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+NIMESULIDE,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+NITROFURANTOIN,PROBENECID,Decreased nitrofurantoin efficacy due to reduced renal secretion,Consult prescriber,D
+NORFLOXACIN,IRON,Chelation reducing norfloxacin absorption,Separate the doses,D
+NORFLOXACIN,THEOPHYLLINE,Potential increase in theophylline levels due to altered metabolism,Consult prescriber,D
+OFLOXACIN,IRON,Chelation reducing ofloxacin absorption,Separate the doses,D
+OFLOXACIN,THEOPHYLLINE,Potential increase in theophylline levels due to altered metabolism,Consult prescriber,D
+OLANZAPINE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Olanzapine. MOA: Induction of CYP1A2,Consult prescriber,D
+OLANZAPINE,PHENYTOIN,Phenytoin may decrease the serum concentration of Olanzapine. MOA: Induction of metabolism,Consult prescriber,D
+OLANZAPINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Olanzapine. MOA: Induction of CYP1A2,Consult prescriber,D
+OMEPRAZOLE,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Omeprazole. MOA: Inhibition of CYP3A4,Pantoprazole,D
+OMEPRAZOLE,CLOPIDOGREL,Omeprazole may decrease the serum concentration of Clopidogrel active metabolite. MOA: Inhibition of CYP2C19,Pantoprazole,D
+OMEPRAZOLE,DIAZEPAM,Omeprazole may increase the serum concentration of Diazepam. MOA: Inhibition of CYP2C19,Pantoprazole,D
+ONDANSETRON,TRAMADOL,Decreased efficacy of tramadol due to serotonin antagonism,Consult prescriber,D
+OXCARBAZEPINE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Oxcarbazepine. MOA: Induction of metabolism,Levetiracetam,D
+OXCARBAZEPINE,PHENYTOIN,Phenytoin may decrease the serum concentration of Oxcarbazepine. MOA: Induction of metabolism,Levetiracetam,D
+OXCARBAZEPINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Oxcarbazepine. MOA: Induction of metabolism,Consult prescriber,D
+PANTOPRAZOLE,DIAZEPAM,Pantoprazole may increase the serum concentration of Diazepam. MOA: Inhibition of CYP2C19,Rabeprazole,D
+PARACETAMOL,ALCOHOL,Increased risk of hepatotoxicity,Separate the doses,D
+PAROXETINE,LINEZOLID,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+PAROXETINE,TAMOXIFEN,Decreased efficacy of tamoxifen due to CYP2D6 inhibition,Venlafaxine,D
+PAROXETINE,TRAMADOL,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,D
+PENICILLIN,PROBENECID,Increased penicillin levels due to reduced renal clearance,Consult prescriber,D
+PHENOBARBITAL,CARBAMAZEPINE,Phenobarbital may decrease the serum concentration of Carbamazepine. MOA: Induction of metabolism,Levetiracetam,D
+PHENOBARBITAL,PHENYTOIN,Phenobarbital may decrease the serum concentration of Phenytoin. MOA: Induction of metabolism,Levetiracetam,D
+PHENOBARBITAL,RIFAMPICIN,Rifampicin may decrease the serum concentration of Phenobarbital. MOA: Induction of metabolism,Consult prescriber,D
+PHENOBARBITAL,VALPROATE,Phenobarbital may decrease the serum concentration of Valproate. MOA: Induction of metabolism,Levetiracetam,D
+PHENYLEPHRINE,MAO INHIBITORS,Increased risk of hypertensive crisis,Consult prescriber,X
+PHENYTOIN,CARBAMAZEPINE,Phenytoin may decrease the serum concentration of Carbamazepine. MOA: Induction of metabolism,Levetiracetam,D
+PHENYTOIN,CIMETIDINE,Cimetidine may increase the serum concentration of Phenytoin. MOA: Inhibition of metabolism,Ranitidine,D
+PHENYTOIN,FLUCONAZOLE,Fluconazole may increase the serum concentration of Phenytoin. MOA: Inhibition of CYP2C9,Itraconazole,D
+PHENYTOIN,ISONIAZID,Increased phenytoin levels due to inhibition of metabolism,Levetiracetam,D
+PHENYTOIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Phenytoin. MOA: Induction of CYP2C9,Consult prescriber,D
+PHENYTOIN,VALPROATE,Phenytoin may decrease the serum concentration of Valproate. MOA: Induction of metabolism,Levetiracetam,D
+PIROXICAM,ASPIRIN,Increased risk of gastrointestinal bleeding,Paracetamol,D
+PIROXICAM,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+PIROXICAM,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+PIROXICAM,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+PRASUGREL,WARFARIN,Increased risk of bleeding due to additive anticoagulant effects,Apixaban,D
+PREDNISOLONE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Prednisolone. MOA: Induction of CYP3A4,Consult prescriber,D
+PREDNISOLONE,PHENYTOIN,Phenytoin may decrease the serum concentration of Prednisolone. MOA: Induction of CYP3A4,Consult prescriber,D
+PREDNISOLONE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Prednisolone. MOA: Induction of CYP3A4,Consult prescriber,D
+PROPRANOLOL,RIFAMPICIN,Rifampicin may decrease the serum concentration of Propranolol. MOA: Induction of metabolism,Metoprolol,D
+PYRAZINAMIDE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Pyrazinamide. MOA: Induction of metabolism,Consult prescriber,D
+QUETIAPINE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Quetiapine. MOA: Induction of CYP3A4,Consult prescriber,D
+QUETIAPINE,PHENYTOIN,Phenytoin may decrease the serum concentration of Quetiapine. MOA: Induction of CYP3A4,Consult prescriber,D
+QUETIAPINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Quetiapine. MOA: Induction of CYP3A4,Consult prescriber,D
+QUININE,THEOPHYLLINE,Potential increase in theophylline levels due to altered metabolism,Consult prescriber,D
+RIFAMPICIN,ATORVASTATIN,Rifampicin may decrease the serum concentration of Atorvastatin. MOA: Induction of CYP3A4,Consult prescriber,D
+RIFAMPICIN,CARBAMAZEPINE,Rifampicin may decrease the serum concentration of Carbamazepine. MOA: Induction of CYP3A4,Consult prescriber,D
+RIFAMPICIN,SIMVASTATIN,Rifampicin may decrease the serum concentration of Simvastatin. MOA: Induction of CYP3A4,Consult prescriber,D
+RIFAMPICIN,WARFARIN,Rifampicin may decrease the serum concentration of Warfarin. MOA: Induction of CYP2C9,Apixaban,D
+RISPERIDONE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Risperidone. MOA: Induction of CYP3A4,Consult prescriber,D
+RISPERIDONE,PHENYTOIN,Phenytoin may decrease the serum concentration of Risperidone. MOA: Induction of CYP3A4,Consult prescriber,D
+RISPERIDONE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Risperidone. MOA: Induction of CYP3A4,Consult prescriber,D
+SALBUTAMOL,PROPRANOLOL,Decreased bronchodilation due to beta-blockade,Metoprolol,X
+SERTRALINE,ASPIRIN,Increased risk of bleeding due to serotonergic effects,Paracetamol,D
+SERTRALINE,LINEZOLID,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+SERTRALINE,TRAMADOL,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,D
+SIMVASTATIN,AMLODIPINE,Increased simvastatin levels due to CYP3A4 inhibition,Pravastatin,D
+SIMVASTATIN,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,X
+SIMVASTATIN,DILTIAZEM,Diltiazem may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,D
+SIMVASTATIN,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,D
+SIMVASTATIN,GEMFIBROZIL,Increased risk of myopathy due to altered metabolism,Fenofibrate,X
+SIMVASTATIN,ITRACONAZOLE,Itraconazole may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,X
+SIMVASTATIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Simvastatin. MOA: Induction of CYP3A4,Consult prescriber,D
+SIMVASTATIN,VERAPAMIL,Verapamil may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,D
+SITAGLIPTIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Sitagliptin. MOA: Induction of metabolism,Consult prescriber,D
+SPIRONOLACTONE,POTASSIUM SUPPLEMENTS,Increased risk of hyperkalemia,Consult prescriber,D
+TACROLIMUS,CLARITHROMYCIN,Increased tacrolimus levels due to CYP3A4 inhibition,Azithromycin,D
+TACROLIMUS,ERYTHROMYCIN,Increased tacrolimus levels due to CYP3A4 inhibition,Azithromycin,D
+TACROLIMUS,ITRACONAZOLE,Increased tacrolimus levels due to CYP3A4 inhibition,Fluconazole,D
+TACROLIMUS,KETOCONAZOLE,Increased tacrolimus levels due to CYP3A4 inhibition,Itraconazole,D
+TACROLIMUS,RIFAMPICIN,Rifampicin may decrease the serum concentration of Tacrolimus. MOA: Induction of CYP3A4,Consult prescriber,D
+TELMISARTAN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Telmisartan. MOA: Induction of metabolism,Consult prescriber,D
+TENOXICAM,LITHIUM,Increased lithium levels due to reduced renal clearance,Lamotrigine,D
+TENOXICAM,METHOTREXATE,Increased methotrexate levels due to reduced renal clearance,Paracetamol,D
+TENOXICAM,WARFARIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+TERBINAFINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Terbinafine. MOA: Induction of CYP2C9,Consult prescriber,D
+THEOPHYLLINE,CIPROFLOXACIN,Ciprofloxacin may increase the serum concentration of Theophylline. MOA: Inhibition of CYP1A2,Levofloxacin,D
+THEOPHYLLINE,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Theophylline. MOA: Inhibition of CYP3A4,Azithromycin,D
+THEOPHYLLINE,ERYTHROMYCIN,Erythromycin may increase the serum concentration of Theophylline. MOA: Inhibition of CYP3A4,Azithromycin,D
+THEOPHYLLINE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Theophylline. MOA: Induction of CYP1A2,Consult prescriber,D
+THYROXINE,IRON,Chelation reducing thyroxine absorption,Separate the doses,D
+TICAGRELOR,CLARITHROMYCIN,Clarithromycin may increase the serum concentration of Ticagrelor. MOA: Inhibition of CYP3A4,Azithromycin,D
+TICAGRELOR,RIFAMPICIN,Rifampicin may decrease the serum concentration of Ticagrelor. MOA: Induction of CYP3A4,Consult prescriber,D
+TIZANIDINE,CIPROFLOXACIN,Increased tizanidine levels due to CYP1A2 inhibition,Consult prescriber,X
+TOPIRAMATE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Topiramate. MOA: Induction of metabolism,Levetiracetam,D
+TOPIRAMATE,PHENYTOIN,Phenytoin may decrease the serum concentration of Topiramate. MOA: Induction of metabolism,Levetiracetam,D
+TORSEMIDE,DIGOXIN,Increased risk of digoxin toxicity due to hypokalemia,Consult prescriber,D
+TRAMADOL,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Tramadol active metabolite. MOA: Induction of CYP3A4,Consult prescriber,D
+TRAMADOL,PHENYTOIN,Phenytoin may decrease the serum concentration of Tramadol active metabolite. MOA: Induction of CYP3A4,Consult prescriber,D
+TRAZODONE,LINEZOLID,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+VALPROATE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Valproate. MOA: Induction of metabolism,Levetiracetam,D
+VALPROATE,PHENYTOIN,Phenytoin may decrease the serum concentration of Valproate. MOA: Induction of metabolism,Levetiracetam,D
+VALPROATE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Valproate. MOA: Induction of metabolism,Consult prescriber,D
+VENLAFAXINE,LINEZOLID,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,X
+VENLAFAXINE,TRAMADOL,Increased risk of serotonin syndrome due to serotonergic effects,Consult prescriber,D
+VERAPAMIL,ATORVASTATIN,Verapamil may increase the serum concentration of Atorvastatin. MOA: Inhibition of CYP3A4,Amlodipine,D
+VERAPAMIL,CARBAMAZEPINE,Verapamil may increase the serum concentration of Carbamazepine. MOA: Inhibition of CYP3A4,Amlodipine,D
+VERAPAMIL,DIGOXIN,Increased digoxin levels due to P-glycoprotein inhibition,Amlodipine,D
+VERAPAMIL,SIMVASTATIN,Verapamil may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,D
+VORICONAZOLE,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Voriconazole. MOA: Induction of CYP3A4,Fluconazole,X
+VORICONAZOLE,PHENYTOIN,Phenytoin may decrease the serum concentration of Voriconazole. MOA: Induction of CYP3A4,Fluconazole,D
+VORICONAZOLE,RIFAMPICIN,Rifampicin may decrease the serum concentration of Voriconazole. MOA: Induction of CYP3A4,Fluconazole,X
+VORICONAZOLE,SIMVASTATIN,Voriconazole may increase the serum concentration of Simvastatin. MOA: Inhibition of CYP3A4,Pravastatin,D
+VORICONAZOLE,WARFARIN,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+WARFARIN,ACETAMINOPHEN,Potential increase in anticoagulant effect with high doses,Ibuprofen,D
+WARFARIN,ASPIRIN,Increased anticoagulant effect due to additive effects,Apixaban,D
+WARFARIN,CLARITHROMYCIN,Increased anticoagulant effect due to CYP3A4 inhibition,Apixaban,D
+WARFARIN,ERYTHROMYCIN,Increased anticoagulant effect due to CYP3A4 inhibition,Apixaban,D
+WARFARIN,FLUCONAZOLE,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+WARFARIN,ITRACONAZOLE,Increased anticoagulant effect due to CYP3A4 inhibition,Apixaban,D
+WARFARIN,KETOCONAZOLE,Increased anticoagulant effect due to CYP3A4 inhibition,Apixaban,D
+WARFARIN,METRONIDAZOLE,Increased anticoagulant effect due to CYP2C9 inhibition,Apixaban,D
+WARFARIN,RIFAMPICIN,Rifampicin may decrease the serum concentration of Warfarin. MOA: Induction of CYP2C9,Apixaban,D
+ZIDOVUDINE,LAMIVUDINE,Additive myelosuppression,Consult prescriber,D
+ZINC,CIPROFLOXACIN,Chelation reducing ciprofloxacin absorption,Separate the doses,D
+ZINC,LEVOFLOXACIN,Chelation reducing levofloxacin absorption,Separate the doses,D
+ZOLPIDEM,CARBAMAZEPINE,Carbamazepine may decrease the serum concentration of Zolpidem. MOA: Induction of CYP3A4,Lorazepam,D
+ZOLPIDEM,PHENYTOIN,Phenytoin may decrease the serum concentration of Zolpidem. MOA: Induction of CYP3A4,Lorazepam,D
+ZOLPIDEM,RIFAMPICIN,Rifampicin may decrease the serum concentration of Zolpidem. MOA: Induction of CYP3A4,Consult prescriber,D
