@@ -1,6 +1,7 @@
 # Drug Interaction Prediction App
 
 A Flutter-based mobile application that predicts potential drug interactions. This tool connects to a Python Flask backend, which uses AI models trained on known drug interaction data to help healthcare professionals and users identify possible risks when combining different medications.
+Direct APK Download(unstable): https://drive.google.com/drive/folders/1ZgXZm2PCgDhfTJf1LVuBXHm5DqZO-ujZ?usp=sharing
 
 ## 🚀 Features
 
