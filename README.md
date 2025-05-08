@@ -43,6 +43,7 @@ Direct APK Download(unstable): https://drive.google.com/drive/folders/1ZgXZm2PCg
 -   Android Studio / Xcode (for mobile deployment)
 
 **For Running/Developing the Backend Service:**
+-   Google Colab or other hosting service
 -   Python 3.7+
 -   `pip` (Python package installer)
 -   An ngrok account and authtoken (for development/testing with `pyngrok`)
@@ -140,7 +141,8 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 👥 Authors
 
--   Your Name - Initial work
+-   Mithil Abhiram
+-   Lloyd Raju John
 
 ## 🙏 Acknowledgments
 
